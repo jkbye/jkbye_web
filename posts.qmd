@@ -1,10 +1,19 @@
 ---
 title: "Featured Blog Posts"
 listing:
-  contents: posts
+  contents: 
+    - posts
+    - path: https://upstream.force11.org/science-reading-how-cognitive-narrative-can-help-us-understand-science-better/
+      title: "Science Reading: Cognitive narrative helps us understand science better"
+      image: "https://images.unsplash.com/photo-1525715843408-5c6ec44503b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxyZWFkaW5nfGVufDB8fHx8MTY2MzAwOTE1Nw&ixlib=rb-1.2.1&q=80&w=1304"
+      author: [Mónica González-Márquez, Anouschka Foltz, Jeffrey K. Bye, Ali Fulsher]
+      date: "2022-09-13"
+      categories: [Science, Metascience, Narrative, Cognition]
+      description: "A piece at *Upstream* on how narrative underlies science"
   type: default
   sort: "date desc"
   categories: true
+  feed: true
   sort-ui: [title, date]
   filter-ui: [title,]
 view: 2

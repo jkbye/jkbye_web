@@ -1,0 +1,58 @@
+---
+title: 'Music Cognition'
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+categories: [Music, Cognition]
+date: "2011-09-02"
+draft: false
+featured: false
+image: featured.jpg
+lastmod: "2011-09-02"
+projects: []
+subtitle: ''
+description: Short summary of music cognition research.
+tags:
+- Psychology in Action
+- Repost
+- Music cognition
+citation: 
+  type: post-weblog
+  container-title: "Psychology In Action"
+  author: Jeffrey Bye
+  issued: 2011-09-02
+  url: https://www.psychologyinaction.org/2011-09-02-music-cognition/
+---
+
+![Image credit: Marius Masalar on [**Unsplash**](https://unsplash.com/photos/rPOmLGwai2w)](featured.jpg){fig-alt="Photograph of music notation."}
+
+::: callout-note
+This blog post was originally published on the [Psychology in Action](https://www.psychologyinaction.org/2011-09-02-music-cognition/) blog in September 2011.
+:::
+
+One of the most fascinating and quickly growing subareas of psychology and the cognitive sciences is *music cognition*, the interdisciplinary study of how the brain processes and perceives music. Music cognition is driven primarily by the perception of tempo and pitch, as well as the important concept of expectation.
+
+*Tempo*, the speed or pace of a musical composition, can be thought of as the backbone of music cognition. But tempo is not unique to music––it is deeply rooted in biological mechanisms of time-keeping such as your heartbeat or sleep cycle. A widely distributed network of neurons in the brain are involved in processing the tempo of music, but the cerebellum plays perhaps the most crucial role in keeping time.
+
+Our brains are wired to keep a beat––studies have shown that in both musicians and non-musicians, 1:2, 1:4, and 1:8 are the easiest beats to keep. We not only have a knack for keeping tempo, we have a surprising amount of memory for it as well. A recent study showed that a majority of non-musicians could sing popular songs off the top of their head within 4 percent of the recording’s actual tempo!
+
+Tempo has universal qualities found all across the world. For example, every known musical system has patterns of strong and weak beats. These accents of the tempo work to establish a natural pulse-like pattern. Tempo is also of critical importance in dance. In fact, in many cultures around the world, music and dance are seen as the same activity, and no line is drawn between performers and spectators.
+
+Another essential property of music is *pitch*: the musical note we perceive from certain sound frequencies. One of the most astounding findings of research into music and sound is that pitch is an entirely psychological phenomenon determined from frequencies. This is not unprecedented in the science of perception, as we’ve known since the days of Newton that color works in much the same way.
+
+In nearly all musical cultures around the world, pitches are organized into *octaves* of five to seven discrete notes. Structuring pitches into octaves helps distinguish two separate but related aspects of a note’s frequency: *relative pitch*, which determines the musical note we hear (e.g., 220 and 440 Hz have the same relative pitch: A), and *absolute pitch*, which determines how high or low any given note sounds (e.g., 440 Hz is a higher-pitched A than 220 Hz). Octaves are so important to music cognition that Paul Cooper called them the “basic miracle of music”.
+
+One of the most remarkable things about note frequencies is that unlike most all of perception, they have direct correlates in the brain: if someone listens to a pure 440 Hz tone, there are neurons in their auditory cortex that will fire at exactly that rate. When harmonic instruments are played, each note is accompanied by integer multiples of that frequency (overtones), which are also mirrored in neuron’s firing rates. Brains are so good at detecting pitch that they are capable of restoring a missing fundamental note (reconstructing the base frequency from just the overtones).
+
+It is clear that we are biologically disposed to music, but there is much about music cognition that is determined by experience. As we are exposed to our culture’s music in childhood, we become accustomed to musical scales that are native to that music. An experiment showed that 6-month-olds are equally good at detecting a mistuning in their native scales as their non-native scales; by adulthood, this ability is fine-tuned only to native scales (a similar fine-tuning is exhibited as infants learn the phonology of their native language). Studies have shown that by the age of five, most children have learned the rules of ‘legal’ chord progressions in their culture’s music.
+
+These learned ‘rules’ explain how even non-musicians can tell when a note is out of place. The cringing caused by the dissonance of an off note reveals just how critical *expectation* is to music cognition. When our expectation is violated, we feel tension. One particular example of this is seen in a phenomenon called “gap fill”––when a melody makes a large leap up or down octaves, we anticipate that the next note will change direction, to counteract the tension caused by moving away from the tonic. This is one of many expectations about pitch that can be exploited by musicians to create novel auditory experiences.
+
+Language, in contrast music, is not organized by pitch. In natural speaking, there is no rule to the pitch of syllables, so we don’t feel that tension. But fascinating research by Diana Deutsch has shown that if you take a recording of speech that sounds completely nonmusical and loop it, you will begin perceive a melody. The repetition creates structure, and once you’ve heard it looped you will find it difficult to ignore the melody even months later.
+
+But if music were just rules and repetition, it’d be boring and we would have run out of songs by now. Some of the most brilliant pieces of music deliberately flout your expectations, such as John Philip Sousa’s [“Stars and Stripes Forever”](http://en.wikipedia.org/wiki/File:USMC_stars_stripes_forever.ogg) and Joseph Haydn’s aptly named “Surprise Symphony”. Consistent with modern and contemporary art movements, 20th century music strove to surprise listeners in more unique ways, including the improvisational techniques explored by jazz greats like Ornette Coleman, the aleatoric randomness pioneered by John Cage, and atonal music by modern masters like Stravinsky and Prokofiev. Moreover, music’s *timbre* (the sound quality or character that differentiates a saxophone’s middle C from a trumpet’s middle C) is another critical component to the musical experience that we haven’t the space to discuss.
+
+All in all, music cognition is a fascinating field and there is much still to be learned. For further reading, I highly suggest Daniel Levitin’s very approachable book, [*This is Your Brain on Music*](http://www.amazon.com/This-Your-Brain-Music-Obsession/dp/0452288525/), or Oliver Sacks’ [*Musicophilia*](http://www.amazon.com/Musicophilia-Tales-Music-Revised-Expanded/dp/1400033535/). For your audio enjoyment, check out Diana Deutch’s CD, [*Phantom Words, And Other Curiosities*](http://www.amazon.com/Phantom-Words-Other-Curiosities-Deutsch/dp/B000JJUI3Q/).
