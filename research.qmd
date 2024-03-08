@@ -1,0 +1,161 @@
+---
+title: "Research"
+echo: false
+jupyter: python3
+section-divs: false
+keep-md: true
+---
+
+How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
+
+```{python}
+# TODO: eventually replace with a custom listing 
+# https://quarto.org/docs/websites/website-listings-custom.html
+
+# code adapted from https://github.com/ddimmery/quarto-website/blob/main/research.qmd
+
+# note if you want to use icons from extensions (e.g., academicons)
+#   I couldn't quite figure out how to use the shortcodes here,
+#   so adapted the ddimmery approach, which means you need to
+#   create an includes.html with:
+#     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+#   and then add in your _quarto.yml file:
+# include-in-header:
+     # - includes.html
+
+import yaml
+from IPython.display import display, Markdown, HTML
+
+# what to use for my name -- if adapting this code, use yours ;)
+my_name = "<strong>Jeffrey K. Bye</strong>"
+
+# function from ddimmery for dealing with 1-2 authors vs. 3+
+def readable_list(_s):
+  if len(_s) < 3:
+    return ' & '.join(map(str, _s))
+  *a, b = _s
+  return f"{', '.join(map(str, a))}, & {b}"
+
+def button(url, str, icon):
+    icon_base = icon[:2]
+    return f"""<a class="btn btn-outline-dark btn-sm", href="{url}" target="_blank" rel="noopener noreferrer">
+        <i class="{icon_base} {icon}" role='img' aria-label='{str}'></i>
+        {str}
+    </a>"""
+
+
+# load in yaml data from papers.yaml
+yaml_data = yaml.safe_load(open("papers.yaml"))
+# create separate dicts for:
+#   pubs (journal articles) & 
+#   chaps (book chapters) &
+#   procs (conference proceeding papers)
+entries = {"pubs": {}, "chaps": {}, "procs": {}}
+for _, data in yaml_data.items():
+    # grab data that should be present for all 3 types
+    entry_type = data["type"]
+    title_str = data["title"]
+    authors = data.get("authors", ["me"])
+    # use my name and bold it
+    authors = [aut if aut != "me" else my_name for aut in authors]
+    author_str = readable_list(authors)
+    year_str = data["year"]
+
+    # now let's get some buttons!
+    buttons = []
+    # note you need to install academicons first in this project
+    # in terminal, run:
+    #   quarto install extension schochastics/academicons
+    
+    # DOI first
+    doi = data.get("doi")
+    if doi is not None:
+      buttons.append(button(doi, "DOI", "ai-doi"))
+    elif published_url is not None: # then URL (if no DOI)
+      buttons.append(button(published_url, "URL", "ai-archive"))
+
+    # then PDF
+    pdf = data.get("pdf")
+    if pdf is not None:
+      buttons.append(button(pdf, "PDF", "bi-file-earmark-pdf"))
+        
+    # then OSF
+    osf = data.get("osf")
+    if osf is not None:
+      buttons.append(button(osf, "OSF", "ai-osf"))
+
+    # now get some data that may or may not be present
+    pub_url = data.get("published_url")
+    volume = data.get("volume")
+    issue = data.get("issue")
+    pages = data.get("pages")
+    journal = data.get("journal")
+    proceedings = data.get("proceedings")
+    
+    # start building the citation (as f-string)
+    entry = f'{author_str} ({year_str}). {title_str}.'
+
+    # finish citation according to which type of entry it is:
+    
+    # JOURNAL ARTICLES
+    if entry_type=="Article":
+      # for journal article, add remaining details (APA style)
+      entry += f" <em>{journal}</em>"
+      if volume is not None:
+        entry += f"<em>, {volume}</em>"
+        if issue is not None:
+          entry += f"({issue})"
+      if pages is not None:
+        entry += f", {pages}"
+      entry += f"."
+      
+      # add to year list
+      if year_str not in entries["pubs"]:
+          entries["pubs"][year_str] = []
+      entries["pubs"][year_str].append(
+          "<li class='list-group-item'>" + entry + "<br>" +
+          " ".join(buttons) + "</li>"
+      )
+      
+    # PROCEEDING PAPERS  
+    elif entry_type=="Proceeding": 
+      # add remaining details (APA style, but ignoring Eds for now)
+      entry += f" In <em>{proceedings}</em>"
+      if pages is not None:
+        entry += f", (pp. {pages})"
+      entry += f"."
+      
+      if year_str not in entries["procs"]:
+        entries["procs"][year_str] = []
+        entries["procs"][year_str].append(
+            "<li class='list-group-item'>" + entry + "<br>" +
+            " ".join(buttons) + "</li>"
+        )
+        
+```
+
+## Peer-Reviewed Journal Articles
+
+```{python}
+#| label: "published-year"
+#| id: "published-year"
+#| output: asis
+for year in sorted(entries["pubs"].keys(), reverse=True):
+    display(Markdown(f"### {year}" + "{#" + f"published-{year}" + "}"))
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(entries["pubs"][year]) + "</ul>"
+    ))
+```
+
+## Peer-Reviewed Conference Proceeding Papers
+
+```{python}
+#| label: "proceedings-year"
+#| id: "proceedings-year"
+#| output: asis
+for year in sorted(entries["procs"].keys(), reverse=True):
+    display(Markdown(f"### {year}" + "{#" + f"not-published-{year}" + "}"))
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(entries["procs"][year]) + "</ul>"
+    ))
+```

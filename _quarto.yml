@@ -1,19 +1,35 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "jkbye_new"
+  #favicon: file/path/to/image.png
+  title: "Jeffrey K. Bye, Ph.D."
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: teaching.qmd
+        text: Teaching
+      - href: research.qmd
+        text: Research
+      - href: posts.qmd
+        text: Posts
+      - href: https://edpsych.umn.edu/research/labs/math-learning
+        text: Lab
+  page-footer:
+    background: dark
+    right:
+      - "© 2024, Jeffrey K. Bye"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: theme-dark.scss
+      light: theme-light.scss
     css: styles.css
+    mainfont: Inter
     toc: true
-
-editor: visual
-
+    page-layout: full
+    include-in-header:
+      - includes.html

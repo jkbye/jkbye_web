@@ -1,1 +1,86 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1, h2, h3 {
+  letter-spacing: 0px;
+  font-family: "Noto Serif", serif;
+  font-weight: 400;
+}
+
+a { 
+  text-decoration: none; 
+}
+a:hover {
+  text-decoration: underline; 
+}
+
+.navbar-title {
+  font-family: "Noto Serif", serif;
+  font-weight: 500;
+}
+
+.about-links {
+  font-size: 1.2em;
+  vertical-align: baseline;
+}
+
+.navbar {
+  font-weight: 600;
+}
+
+.position {
+  font-weight: 300;
+  font-size: .5em;
+  line-height: 1.2em;
+}
+
+.about-entity {
+  flex-basis: 35% !important;
+}
+
+.activities {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+i {
+  color: var(--accent-pink);
+}
+
+.icon {
+  grid-area: icon;
+  margin-right: 20px;
+  fill: var(--accent-pink);
+}
+
+.icon:hover {
+  fill: var(--blue);
+}
+
+.degree {
+  grid-area: deg;
+  font-weight: 500;
+}
+
+.subdegree {
+  grid-area: deg;
+  font-weight: 300;
+}
+
+.school {
+  grid-area: school;
+  opacity: 0.6;
+}
+
+.education-element {
+  width: 100%;
+  display: grid;
+  justify-content: start;
+  align-items: center;
+  grid-template-areas: 
+    "icon deg"
+    "icon school";
+}
+

@@ -1,0 +1,23 @@
+---
+title: "MacalestR"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2021"]
+first_taught: "2021"
+last_taught: "2021"
+times_taught: 1
+categories: [Programming, R, Statistics, Data Visualization]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2021"
+projects: []
+subtitle: 'Macalester College'
+description: Moving stats instruction to R
+---
+
+A workshop to help transition stats instruction from SPSS to R.

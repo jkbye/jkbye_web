@@ -1,0 +1,35 @@
+---
+title: "Cognitive Psychology"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2017"]
+first_taught: "2017"
+last_taught: "2018"
+times_taught: 1
+categories: [Cognition, Psychology]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2017"
+projects: []
+subtitle: 'UCLA'
+description: Survey course in cognitive psychology
+---
+
+This course is an introduction to Cognitive Psychology. This is a broad field of study that covers many aspects of the mind, but we only have time to explore some of its key topics, in as much depth as we can. While the structure of the course splits up topic areas across different lectures, we will focus throughout on fundamental questions of cognitive psychology:
+
+> How do minds process the world? How do minds acquire, revise, and lose information? How do minds utilize information to guide thought and action?
+
+As much as possible, we will also discuss how cognitive psychology operates as a science:
+
+> How can we observe and quantify the mind? What are the strengths and weaknesses of experiments? Of new imaging techniques? Of models and theories of the mind?
+
+Keep these questions ‘in mind’ throughout this course to guide your learning.
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+:::

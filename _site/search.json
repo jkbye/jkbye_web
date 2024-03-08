@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeffrey K. Bye, Ph.D.",
+    "section": "",
+    "text": "I am a Lecturer in the Educational Psychology department at the University of Minnesota, and the Lab Coordinator and Affiliate Faculty of the Learning Informatics Lab.\nHow do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions. I am passionate about teaching these and related topics, and helping social scientists learn open-source programming for reproducible research workflows.\nMy academic background is grounded in computational cognitive science and experimental psychology. As an undergraduate at Pomona College, I received a BA in Cognitive Science with a subconcentration in Computer Science and minor in Philosophy. I then received my MA and PhD in Cognitive Psychology at UCLA, with a specialization in Computational Cognition and minor in Quantitative Psychology.\nDuring graduate school, I was president of Psychology in Action, where I also blogged and organized five interdisciplinary symposia."
+  }
+]

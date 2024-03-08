@@ -1,0 +1,63 @@
+---
+title: "Desirable Difficulties in Math Teaching"
+author:
+  - name: "Jeffrey Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+date: "2011-02-14"
+categories: [Education, Mathematics, Research, Learning & Memory]
+draft: false
+featured: false
+image: featured.jpg
+lastmod: "2011-01-04T00:00:00Z"
+projects: []
+subtitle: ''
+description: How desirable difficulties apply to math education.
+tags:
+- Psychology in Action
+- Repost
+- Learning
+- Memory
+- Mathematics
+- Classroom
+citation: 
+  type: post-weblog
+  container-title: "Psychology In Action"
+  author: Jeffrey Bye
+  url: https://www.psychologyinaction.org/2011-02-14-desirable-difficulties-in-math-teaching/
+---
+
+![Image credit: Annie Spratt on [**Unsplash**](https://unsplash.com/photos/JexAuNCfefs)](featured.jpg){fig-alt="Photograph of a math worksheet."}
+
+::: callout-note
+This blog post was originally published on the [Psychology in Action](https://www.psychologyinaction.org/2011-02-14-desirable-difficulties-in-math-teaching/) blog in February 2011.
+:::
+
+Continuing in the spirit of my [last post](../2011-01-04-desirable-difficulties-classroom/), which overviewed the desirable difficulties literature, and Carole Yue's [recent post](https://www.psychologyinaction.org/psychology-in-action-1/2011/02/09/desirable-difficulties-and-inductive-learning) on how desirable difficulties can improve induction tasks, today I'm highlighting some recent research on applying such difficulties to math learning and practice. As a quick recap, desirable difficulties are adjustments to teaching that slow down learning in the short term, but *improve long-term retention*. In other words, making learning harder can actually make it more effective. Two of the most robust desirable difficulties are **spacing** (the distribution of practice sessions over time as opposed to massing them together) and **interleaving** (alternating practice on different types of problems, like ABCABC, as opposed to blocking them, like AABBCC). Recently, psychologists have begun expanding research on these techniques to conceptual subjects like math.
+
+### Evidence for Benefits of Spacing and Interleaving Math Problems
+
+In a series of experiments (Rohrer & Taylor, 2006; Rohrer & Taylor, 2007; Taylor, 2008; Rohrer, 2009; Taylor & Rohrer, 2010), Rohrer and Taylor have consistently demonstrated that interleaving and spacing both benefit later performance on math problems. For example, Rohrer and Taylor (2006) instructed subjects on how to solve permutations with repeating elements. Half of the subjects (massers) did 10 practice problems in one session while the other half (spacers) had two different 5 problem sessions. Subjects were tested either 1 or 4 weeks after their final practice session. For those who were tested after 1 week, there was no significant difference between massers and spacers, but after 4 weeks the spacers did much better than the massers. In another experiment (2007), subjects were taught how to find the volume of four different obscure geometric figures. The practice problems were either blocked by type (one figure at a time) or interleaved; each group had two practice sessions a week apart, and then were tested one week after the second practice. They found that during the first practice session, the interleavers performed much worse, while during the second session, the disparity narrowed but blockers still did better. Critically, after being tested at a one week delay, interleavers drastically outperformed blockers (63% to 20%).
+
+A recent study by Rickard, Lau, & Pashler (2008) utilized spacing and interleaving in an interesting way. Their experiment made use of a unique aspect of mathematics: there are two ways to solving problems––by *calculation* (process) or by *direct retrieval* of the answer (memory). For instance, if you have your multiplication tables memorized, you would use direct retrieval (upon seeing 6 x 4, 24 "pops" into your head). But if you couldn't freely recall the answer, you would use the procedures of multiplication to calculate it. In this sense, repeating the same math problem leads not only to more correct responses, but to faster response times (RTs), because memory is quicker than calculation. In Rickard et al.'s experiment, subjects studied 24 different multi-digit multiplication problems, each of which they repeated 15 times. Some subjects were given the problems in 8 blocks of 3 (repeating 3 different problems 15 times each before moving to the next block of 3), and the other half completed the problems in 2 blocks of 12. The subjects who had larger set sizes (12) made more errors and had longer RTs during the training session, but they outperformed the smaller set size (3) group on a test given after a delay. This suggests that training on small problem sizes allows people to rely on direct retrieval early on (it's easier to remember 3 things at a time than 12), and they don't get the full benefit from calculating answers multiple times. Indeed, in a follow-up, they found that while subjects with small set sizes relied much more on direct retrieval during training, those with larger set sizes were actually able to use more direct retrieval after a 2-day delay. This helps illustrate why it is that practicing material that is "fresh on your mind" provides minimal benefits: the immediate accessibility of an answer means that further practice isn't engaging any actual conceptual/computational processes.
+
+### Implementing Desirable Difficulties into Math Curricula
+
+So what do these results mean for practical changes to math education? The demonstrated benefits of spacing and interleaving greatly challenge the typical format of math lesson plans and textbooks, which typically structure homework assignments around repeatedly practicing a recently learned skill or problem type. By massing the same kinds of problems together, students' performance within a single class or homework assignment might improve, but it won’t benefit their long-term retention of those skills. Rohrer and Taylor (2007) have argued that textbooks with a **shuffled format** (interleaved/spaced practice) are better than the standard format of most math textbooks. A shuffled format, they suggest, would be structured such that "after a lesson on the quadratic formula, the immediately following practice set would include no more than a few quadratic formula problems, with other quadratic formula problems appearing in subsequent practice sets with decreasing frequency" (2007, p. 482). This would ensure that practice problems within a set would be a mixture of previous problem types, and practice for a given topic would be spaced throughout the textbook. The beginning of a textbook could interleave topics covered in previous years. Rohrer and Taylor mention that a well known example of a shuffled format textbook is the [Saxon series](http://saxonpublishers.hmhco.com/en/sxnm_home.htm). I perused a sample of their Algebra 1 textbook online, and I'm very impressed with their use of interleaving.
+
+As a former math tutor, one of the most common problems I've encountered is that students might actually know the formulas for finding, say, the volume of common 3-dimensional shapes, but they sometimes struggle with remembering which formula applies to which shape––*and that's exactly what they need to do on a test*. This is likely because they don't do enough mixed practice, which necessarily involves remembering which formula to apply for each problem. Yet think about a typical textbook chapter or classroom lesson plan on volume. The students might first learn the simplest example: rectangular prisms. After a 20-problem worksheet on rectangular prisms, they might move onto other prisms, then cylinders, then pyramids, cones, and finally spheres. At each step, problem sets involve primarily the shapes just learned. In all of the geometry textbooks I've seen, this has been the case. Some textbooks have periodic mixed reviews, but that’s an exception, not the rule. If textbooks interleaved problems systematically, students would always need to decide which formula or type of computation to use for the problem.
+
+One important consideration is that the standard format that most textbooks utilize might be so common because as teachers we like to have material organized into modular lesson plans. It might be convenient for us, and students might prefer it because topics are more delineated; they also might notice their performance improving through a 20-problem set. However, we have to be aware that after the first few practice problems, each additional problem may provide very little benefit (a sort of law of diminishing returns). In contrast, if we restructured lesson plans and textbooks to utilize more desirable difficulties like spacing and interleaving, students might actually learn better and remember things longer. Perhaps the best news is that shuffling problems is *cost-effective*, and wouldn't necessitate rewriting the whole textbook. Authors would merely have to take their existing problems and interleave them throughout the book in an appropriate manner.
+
+Because this research is still new, most of these studies have only been carried out in the laboratory with college students. To fully assess the practical benefits of spacing and interleaving, subsequent research should analyze how these desirable difficulties affect actual learning in practice. Importantly, scientists and teachers need to work together to test these hypotheses in the classroom. Hopefully, with more research like this and open dialogue between scientists, teachers, and textbook writers, we can restructure math teaching to improve learning.
+
+### Citations
+
+-   Rickard, T.C., Lau, J.S., & Pashler, H. (2008). Spacing and the transition from calculation to retrieval. *Psychonomic Bulletin & Review, 15*, 656-661.
+-   Rohrer, D. (2009). The effects of spacing and mixing practice problems. *Journal for Research in Mathematics Education, 40*, 4-17.
+-   Rohrer, D. & Taylor, T. (2006). The effects of overlearning and distributed practice on the retention of mathematics knowledge. *Applied Cognitive Psychology, 20*, 1209-1224.
+-   Rohrer, D. & Taylor, T. (2007). The shuffling of mathematics problems improves learning. *Instructional Science, 35*, 481-498.
+-   Taylor, K.M. (2008). The benefits of interleaving different kinds of mathematics practice problems (Doctoral dissertation). Available from Dissertations and Theses database. (UMI No. 3326099)
+-   Taylor, K. & Rohrer, D. (2010). The effects of interleaved practice. *Applied Cognitive Psychology, 24*, 837-848.

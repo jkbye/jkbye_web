@@ -1,0 +1,107 @@
+/*-- scss:defaults --*/
+
+// Colors
+//$dark-green: #0B5D18;
+//$light-green: #70BF41;
+//$mint-green: #00C070;
+//$teal-green: #006C65;
+//$cream: #FDFBF7;
+//$apricot2: #FFD479;
+//$offwhite: #f8f8f2;
+//$gray: #64605f;
+//$dark-gray: #3E3E3E;
+//$medium-green-gray: #003E1F;
+//$bg-color: #202B2B;
+//$light-purple: #773F9B;
+//$dark-purple: #5F327C;
+//$light-orange: #EF951A;
+//$dark-orange: #DE6A10;
+//$eggplant: #970E53;
+//$gold: #DCBD23;
+
+// Colors
+$cream: #FDFBF7;
+$offwhite: #f8f8f2;
+$gray: #64605f;
+$dark-gray: #3E3E3E;
+$bg-color: #202B2B;
+
+// new colors from https://colorkit.co/palette/ffce96-de8042-5d9b84-5d455e/
+$sage: #5d9b84;
+$pumpkin: #de8042;
+$eggplant: #5d455e;
+$lilac: #AD80AF;
+$apricot: #ffce96;
+$coral: #FF7E79;
+
+
+// Base document colors
+$navbar-bg: $sage; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $eggplant; // highlight color when hovering over navbar links
+$body-bg: $bg-color; // page background 
+$body-color: $offwhite; // page text 
+$footer-bg: $bg-color; // footer 
+$footer-fg: $eggplant; // footer 
+$link-color: $apricot; // hyperlinks 
+
+// Inline code
+$code-bg: $dark-gray; // inline code background color
+$code-color: $eggplant; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+// Callouts
+$callout-color-note: $lilac;
+$callout-color-tip: $sage;
+$callout-color-caution: $pumpkin;
+$callout-color-warning: $apricot;
+$callout-color-important: $coral;
+
+/*-- scss:rules --*/
+
+h1 {
+  color: $sage;
+}
+
+h2 {
+  color: $lilac;
+}
+
+.position {
+  color: $cream;
+}
+
+a.position {
+  color: $lilac;
+}
+
+.list-group-item {
+  color: $offwhite;
+  background-color: $dark-gray;
+}
+
+.btn-outline-dark {
+  color: $apricot;
+}
+
+.card-body {
+  background-color: $dark-gray;
+}
+
+.quarto-category {
+  color: $apricot !important;
+}
+
+.listing-category {
+  color: $apricot !important;
+}
+
+.listing-author {
+  color: $lilac;
+}
+
+.listing-date {
+  color: $cream;
+}

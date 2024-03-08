@@ -1,11 +1,74 @@
 ---
-title: "jkbye_new"
+title: "Jeffrey K. Bye
+        <p class='position'>Lecturer, 
+        <a href='https://edpsych.umn.edu/'>Educational Psychology</a>
+        <br><a href='https://twin-cities.umn.edu/'>
+        University of Minnesota</a></p>"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jbye@umn.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/jkbye
+    - text: "{{< ai publons >}} Publons"
+      href: https://publons.com/researcher/1737417/jeffrey-k-bye/
+    - text: "{{< ai osf >}} OSF"
+      href: https://osf.io/tz74m/
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=yecDaUIAAAAJ
+    - text: "{{< ai orcid >}} ORCiD"
+      href: https://orcid.org/0000-0002-2636-3657
 ---
 
-This is a Quarto website.
+### Hello,
+I am a Lecturer in the [Educational Psychology](https://www.cehd.umn.edu/edpsych/) department at the [University of Minnesota](https://twin-cities.umn.edu/), and the Managing Director and Affiliate Faculty of the [Learning Informatics Lab](https://innovation.umn.edu/informatics/).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an interdisciplinary cognitive scientist interested in how people learn and think about math, data, and programming. I love to teach statistics, computing, cognition, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent and effective.
 
-```{r}
-1 + 1
-```
+
+::: {.activities}
+
+::: {.interests-col-6}
+## Interests
+
+* Math Learning
+* Mathematical Cognition
+* Causal Learning
+* Programming Instruction
+* Statistical Thinking
+* Open Science
+* Science Communication
+
+:::
+
+::: {.education-col-6}
+## Education
+
+<div class="education-element">
+<div class="icon"><p>
+<i class="bi bi-mortarboard-fill"></i></i></p></div>
+<div class="degree">Ph.D., Cognitive Psychology<br>
+<span class="subdegree">*Specialization:* Computational Cognition<br>
+*Minor:* Quantitative Psychology</span></div>
+<div class="school">[UCLA](https://www.ucla.edu/)</div>
+</div>
+<p></p>
+<div class="education-element">
+<div class="icon"><p>
+<i class="bi bi-mortarboard-fill"></i></i></p></div>
+<div class="degree">B.A., Cognitive Science<br>
+<span class="subdegree">*Subconcentration:* Computer Science<br>
+*Minor:* Philosophy</span></div>
+<div class="school">[Pomona College](https://www.pomona.edu/)</div>
+</div>
+
+:::
+
+:::

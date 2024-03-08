@@ -1,0 +1,52 @@
+---
+title: "Teaching"
+listing:
+  - id: courses
+    contents: courses
+    type: table
+    sort: 
+      - "times_taught desc"
+      - "last_taught desc"
+    categories: true
+    table-hover: true
+    fields: [title, subtitle, times_taught, last_taught]
+    field-display-names:
+      title: "Course Title"
+      subtitle: "Institution"
+      times_taught: "Times Taught"
+      last_taught: "Last Taught"
+    sort-ui: [title, subtitle, times_taught, last_taught]
+    filter-ui: true
+  - id: workshops
+    contents: workshops
+    type: table
+    sort: 
+      - "times_taught desc"
+      - "last_taught desc"
+    categories: true
+    table-hover: true
+    fields: [title, subtitle, times_taught, last_taught]
+    field-display-names:
+      title: "Workshop Title"
+      subtitle: "Institution"
+      times_taught: "Times Taught"
+      last_taught: "Last Taught"
+    sort-ui: false
+    filter-ui: false
+view: 2
+---
+
+(Most) courses and workshops I have taught at the [University of Minnesota](https://twin-cities.umn.edu/), [Macalester College](https://www.macalester.edu/), and [UCLA](http://www.ucla.edu/).
+
+## Courses
+
+:::{#courses}
+:::
+
+## Workshops
+
+:::{#workshops}
+:::
+
+
+

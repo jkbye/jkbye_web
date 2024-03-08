@@ -1,0 +1,27 @@
+---
+title: "Advanced Foundations & Applications of R: Latent Variables"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2020", "Summer 2021"]
+first_taught: "2020"
+last_taught: "2021"
+times_taught: 2
+categories: [Programming, R, Statistics, Data Visualization]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2021"
+projects: []
+subtitle: 'Research Methodology Consulting Center'
+description: Latent variables, psychometrics, and factor analysis in R
+---
+
+::: callout-note
+I co-designed this course with Ethan Brown and we co-taught it 2 times over summer from 2020 to 2021.
+:::
+
+**AFAR Latent** is a 2.5-day online workshop designed to support participants in modeling latent variables not directly observable from our data. In the social sciences, latent variables like “math ability” or “financial well-being” are often the true focus of an investigation. This workshop will provide actionable skills in using R’s range of packages that allow us to explore and model these latent variables, from basic psychometrics to structural equation modeling.

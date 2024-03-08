@@ -1,0 +1,27 @@
+---
+title: "Introduction to Psychology"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Fall 2018"]
+first_taught: "2018"
+last_taught: "2018"
+times_taught: 1
+categories: [Psychology]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2018"
+projects: []
+subtitle: 'Macalester College'
+description: Intro-level course for psychology undergrads
+---
+
+An introduction to psychological science -- the study of behavior and mental processes. Because the content covered by psychology is vast, we will explore and expand on overarching themes, methods, and approaches as we take deep dives into specific topics, such as the nature of behavior, thought, the self, society, and mental health. Required reading will consist primarily of open-access online chapters, with some primary sources, and optional supplemental material. Classes will consist of a mixture of lecture and discussion. As much as possible, we will also discuss how psychology operates as a science:
+
+> How can we observe and quantify the mind? What are the strengths and weaknesses of experiments? Of new technological approaches? Of models and theories?
+
+Keep these questions ‘in mind’ throughout this course to guide your learning.

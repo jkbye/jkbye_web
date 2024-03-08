@@ -1,0 +1,23 @@
+---
+title: "Cognitive Psychology Laboratory"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Fall 2017", "Winter 2018"]
+first_taught: "2017"
+last_taught: "2018"
+times_taught: 2
+categories: [Cognition, Psychology, Research Methods, Experiments]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2018"
+projects: []
+subtitle: 'UCLA'
+description: Experimental research methods in cognitive psychology
+---
+
+The goal of this course is to learn how to design and carry out experiments in cognitive psychology. In the first part of the course, we’ll review published experiments and then work together to design our own experiments in various areas of cognitive psychology, including perception, memory, decision making, and reasoning. We’ll be discussing the basics of signal detection theory, psychophysics, response time measures, and instruction manipulations. As we try to design our own experiments, we’ll be confronted with many difficulties and confounds that will require clever experimental design to overcome. In order to help think of solutions, we will be looking very closely at the methods sections of a number of research papers for inspiration (and to learn from their mistakes!). In the second part of the course, you will be using the experimental tools you learned about to design and implement your own experiments in teams. You may pursue any research question in any subfield of cognitive psychology. In the final part of the course, you will analyze your data, write up the results of your experiment in a formal paper, and make an oral presentation of your findings.

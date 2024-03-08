@@ -1,0 +1,25 @@
+---
+title: "MATLAB Programming for Behavioral Sciences"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Spring 2018"]
+first_taught: "2018"
+last_taught: "2018"
+times_taught: 1
+categories: [Programming, MATLAB, Research Methods]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2018"
+projects: []
+subtitle: 'UCLA'
+description: Intro to programming in MATLAB for cognitive science
+---
+
+This course introduces MATLAB and programming methods in a general way, but with a special eye toward application in experimental psychology research and data analysis. The course assumes no previous programming experience, and students will learn to read and write code for creating programs, analyzing data, and modeling.
+
+Computer science is an important facet of cognitive science: we write programs to perform statistics and data analysis, to do computational modeling, to create stimuli and to conduct experiments. There are very few aspects of research as conducted today that do not require some knowledge of programming. MATLAB is often the programming language of choice for many branches of psychology, especially with the availability of numerous free and specialized toolboxes (e.g. psychophysics toolbox). This course is the first part of a two-part series that is designed as a practical application of computer science and programming to psychological research. Students will learn many programming basics that can be transferred to other languages (e.g., Python and R, also commonly used in psychology), they will learn to perform statistical and advanced analyses of data sets, and how to create complex computer programs and simulations. This course serves as an introduction to Psych 20B which will focus on applying these techniques to the creation of psychology experiments.

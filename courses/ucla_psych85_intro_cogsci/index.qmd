@@ -1,0 +1,27 @@
+---
+title: "Introduction to Cognitive Science"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2015"]
+first_taught: "2015"
+last_taught: "2015"
+times_taught: 1
+categories: [Cognition, Psychology, Computation]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2018"
+projects: []
+subtitle: 'UCLA'
+description: Intro-level course in cognitive science
+---
+
+This course is intended to present a broad but engaging introduction to the highly interdisciplinary field of Cognitive Science. It also serves as a gateway to the Cognitive Science Major in the Department of Psychology at UCLA. Cognitive science is an interdisciplinary study of the mind, encompassing research from psychology, philosophy, neuroscience, linguistics, anthropology, and artificial intelligence. Because we cannot cover everything I’d like to in just six weeks, we will aim to provide a reasonably deep introduction to several of the key topics and research approaches. In this course, we will emphasize the philosophical foundations of cognitive science, computational models of cognition, and substantive areas such as thinking, reasoning, and language. There are many additional topics I would love to include but have skipped them because they are covered well in other courses (especially Psych 120A: Cognitive Psychology).
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+:::

@@ -1,0 +1,25 @@
+---
+title: "Social & Developmental Psychology of Education"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Spring 2024"]
+first_taught: "2024"
+last_taught: "2024"
+times_taught: 1
+categories: [Social, Developmental, Psychology, Education]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2024"
+projects: []
+subtitle: 'University of Minnesota'
+description: Social psychology of education and child development
+---
+
+Social and developmental psychology provides the underpinnings for a range of methods for conducting research in real-world settings. They also lay conceptual foundations for understanding a range of social and developmental processes. The course will cover a full range of topics within social and developmental psychology, plus selected topics in personality psychology, and examine their implications for understanding and structuring educational and other professional settings. Discussions will include a strong focus on educator and practitioner applications of research.
+
+The course is a survey course of issues related to both social psychology and human development and, their application to applied settings. It is designed for graduate students from all fields with interests in social processes. Typically, each class period of the course will include a combination of lecture, class discussion, small group cooperative learning work, and videos.

@@ -1,0 +1,269 @@
+dpf:
+  type: "Article"
+  title: "Debugging pathways: Open-ended discrepancy noticing, causal reasoning, and intervening"
+  authors:
+      - David DeLiema
+      - me
+      - Vijay Marupudi
+  year: 2024
+  date: 2024-03-05
+  doi: https://doi.org/10.1145/3650115
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3650115
+  published_url: https://dl.acm.org/doi/10.1145/3650115
+  journal: ACM Transactions on Computing Education
+  categories: [debugging, programming]
+
+causes_combine:
+  type: "Article"
+  title: "How do humans want causes to combine their effects? The role of analytically-defined causal invariance for generalizable causal knowledge"
+  authors:
+      - me
+      - Pei-Jung Chuang
+      - Patricia W. Cheng
+  year: 2023
+  date: 2022-11-15
+  doi: https://doi.org/10.1016/j.cognition.2022.105303
+  osf: https://osf.io/znuw9/
+  published_url: https://www.sciencedirect.com/science/article/pii/S0010027722002918
+  journal: Cognition
+  volume: 230
+  pages: 105303
+
+peds_nutrition:
+  type: "Article"
+  title: "Enhanced parenteral nutrition during the first week of life is feasible and tolerated in very low birth weight infants born preterm: Findings from a randomized nutrition intervention study"
+  authors:
+      - Emily M. Nagel
+      - Juan David Gonzalez V.
+      - me
+      - Jennifer Super
+      - Ellen W. Demerath
+      - Sara E. Ramel 
+  year: 2023
+  date: 2023-03-23
+  doi: https://doi.org/10.1159/000527552
+  pdf: 
+  published_url: https://karger.com/neo/article/120/2/242/832271/Enhanced-Parenteral-Nutrition-Is-Feasible-and-Safe
+  journal: Neonatology
+  volume: 120
+  issue: 2
+  pages: 242-249
+    
+peds_eol:
+  type: "Article"
+  title: "Pediatric end-of-life care skills workshop: A novel, deliberate practice approach"
+  authors:
+      - Johannah M Scheurer
+      - Erik Norbie
+      - me
+      - Daniela Villacis-Calderon
+      - Catherine Heith
+      - Anne Woll
+      - Dannell Shu
+      - Kelly McManimon
+      - Heidi Kamrath
+      - Naomi Goloff
+  year: 2023
+  date: 2022-11-18
+  doi: https://doi.org/10.1016/j.acap.2022.11.006
+  pdf: https://www.academicpedsjnl.net/action/showPdf?pii=S1876-2859%2822%2900566-6
+  published_url: https://www.academicpedsjnl.net/article/S1876-2859(22)00566-6/fulltext
+  journal: Academic Pediatrics
+  volume: 23
+  issue: 5
+  pages: 860-865
+
+jnc_alg:
+  type: "Article"
+  title: "Decoding fact fluency and strategy flexibility in solving one-step algebra problems: An individual differences analysis"
+  authors:
+      - me
+      - Rina M. Harsch
+      - Sashank Varma
+  year: 2022
+  date: 2022-07-28
+  doi: https://doi.org/10.5964/jnc.7093
+  pdf: https://jnc.psychopen.eu/index.php/jnc/article/view/7093/7093.pdf
+  published_url: https://jnc.psychopen.eu/index.php/jnc/article/view/7093
+  osf: https://osf.io/vx2rh/
+  journal: Journal of Numerical Cognition
+  volume: 8
+  issue: 2
+  pages: 281-294
+
+pv1:
+  type: "Article"
+  title: "Categorical Perception of *p*-Values"
+  authors:
+      - V. N. Vimal Rao
+      - me
+      - Sashank Varma
+  year: 2022
+  date: 2021-11-15
+  doi: https://doi.org/10.1111/tops.12589
+  pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12589
+  published_url: https://onlinelibrary.wiley.com/doi/10.1111/tops.12589
+  journal: Topics in Cognitive Science
+  volume: 14
+  issue: 2
+  pages: 414–425
+
+causal1:
+  type: "Article"
+  title: "Causal invariance as a tacit aspiration: Analytic knowledge of invariance functions"
+  authors:
+      - Jooyong Park
+      - Shannon McGillivray
+      - me
+      - Patricia W. Cheng
+  year: 2022
+  date: 2021-11-30
+  doi: https://doi.org/10.1016/j.cogpsych.2021.101432
+  #pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12589
+  published_url: https://www.sciencedirect.com/science/article/pii/S0010028521000554
+  journal: Cognitive Psychology
+  volume: 132
+  pages: 101432
+
+atn1:
+  type: "Article"
+  title: "Attention to numerosity varies across individuals and task contexts"
+  authors:
+      - Michèle M. M. Mazzocco
+      - Jenny Yun-Chen Chan
+      - me
+      - Emily R. Padrutt
+      - Taylor Praus-Singh
+      - Sarah Lukowski
+      - Ethan Brown
+      - Rachel E. Olson
+  year: 2020
+  date: 2020-09-18
+  doi: https://doi.org/10.1016/j.cogpsych.2021.101432
+  #pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12589
+  published_url: https://www.sciencedirect.com/science/article/pii/S0010028521000554
+  journal: Mathematical Thinking and Learning
+  volume: 22
+  issue: 4
+  pages: 258-280
+    
+ramps:
+  type: "Article"
+  title: "Dynamic mesolimbic dopamine signaling during action sequence learning and expectation violation"
+  authors:
+      - Val L. Collins
+      - Venuz Y. Greenfield
+      - me
+      - Kay E. Linker
+      - Alice S. Wang
+      - Kate M. Wassum
+  year: 2016
+  date: 2016-02-12
+  doi: https://doi.org/10.1038/srep20231
+  pdf: https://www.nature.com/articles/srep20231.pdf
+  published_url: https://www.nature.com/articles/srep20231
+  journal: Scientific Reports
+  volume: 6
+  pages: 20231
+
+
+# NEXT DO BOOK THEN PROCS
+
+debug:
+  type: "Proceeding"
+  title: "Debugging debugging instruction: A research-practice partnership in K-8 computer science education"
+  authors:
+      - Andrea Wilson Vazquez
+      - David DeLiema
+      - Megan Goeke
+      - me
+  year: 2023
+  date: 2023-07-01
+  doi: https://repository.isls.org//handle/1/10246
+  pdf: https://repository.isls.org/bitstream/1/10246/1/ICLS2023_2275-2278.pdf
+  #published_url: 
+  proceedings: Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023
+  pages: 2275-2278
+  
+effsize:
+  type: "Proceeding"
+  title: "Graduate students' effect size categorical boundaries"
+  authors:
+      - V. N. Vimal Rao
+      - me
+      - Sashank Varma
+  year: 2022
+  date: 2022-09-01
+  doi: http://doi.org/10.52041/iase.icots11.T3C2
+  pdf: https://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_153_RAO.pdf
+  #published_url: 
+  proceedings: Proceedings of the 11th International Conference on Teaching Statistics (ICOTS11 2022)
+  #pages:
+
+cluster2:
+  type: "Proceeding"
+  title: "Use of clustering in human solutions of the traveling salesperson problem"
+  authors:
+      - Vijay Marupudi
+      - Rina Harsch
+      - Jimin Park
+      - V. N. Vimal Rao
+      - me
+      - Sashank Varma
+  year: 2022
+  date: 2022-07-01
+  doi: https://escholarship.org/uc/item/3t16j57m
+  pdf: https://escholarship.org/content/qt3t16j57m/qt3t16j57m.pdf?t=recjza
+  #published_url: 
+  proceedings: Proceedings of the 44th Annual Meeting of the Cognitive Science Society
+  pages: 424-430
+  
+cluster1:
+  type: "Proceeding"
+  title: "The role of clustering in the efficient solution of small traveling salesperson problems"
+  authors:
+      - Vijay Marupudi
+      - Rina Harsch
+      - V. N. Vimal Rao
+      - me
+      - Jimin Park
+      - Sashank Varma
+  year: 2021
+  date: 2021-07-01
+  doi: https://escholarship.org/uc/item/5q76r06x
+  pdf: https://escholarship.org/content/qt5q76r06x/qt5q76r06x.pdf?t=qwi3aq
+  #published_url: 
+  proceedings: Proceedings of the 43rd Annual Meeting of the Cognitive Science Society
+  pages: 1865-1871
+
+algvars:
+  type: "Proceeding"
+  title: "Teaching the purpose and meaning of algebraic variables through systems-of-equations story problems: Multimedia approaches"
+  authors:
+      - me
+      - Pei-Jung Chuang
+      - Lauren E. Anthony
+      - Patricia W. Cheng
+  year: 2020
+  date: 2020-06-01
+  doi: https://repository.isls.org//handle/1/6449
+  pdf: https://repository.isls.org/bitstream/1/6449/1/1799-1800.pdf
+  #published_url: 
+  proceedings: Proceedings of the 14th International Conference of the Learning Sciences - ICLS 2020
+  pages: 1799-1800
+
+infant:
+  type: "Proceeding"
+  title: "Anticipating an effect from predictive visual sequences: Development of infants' causal inference from 9 to 18 months"
+  authors:
+      - me
+      - Bryan D. Nguyen
+      - Hongjing Lu
+      - Scott P. Johnson
+  year: 2014
+  date: 2014-07-01
+  doi: https://escholarship.org/uc/item/08b0j4td
+  pdf: https://escholarship.org/content/qt08b0j4td/qt08b0j4td.pdf?t=op9xhz
+  #published_url: 
+  proceedings: Proceedings of the 36th Annual Meeting of the Cognitive Science Society
+  pages: 1976-1981

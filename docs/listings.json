@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/research2.html",
+    "items": [
+      "/papers/2023-cog-causal/index.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/courses/umn_epsy5123_programming_workflows/index.html",
+      "/courses/umn_epys5122_programming_social_science/index.html",
+      "/courses/umn_epsy8114_lab_methods/index.html",
+      "/courses/umn_epsy8112_math_cognition/index.html",
+      "/courses/umn_epsy8118_adv_cog_psych/index.html",
+      "/courses/ucla_psych121_cog_psych_lab/index.html",
+      "/courses/umn_epsy5157_social_development/index.html",
+      "/courses/umn_epsy5114_student_learning/index.html",
+      "/courses/umn_epsy8114_computational_thinking/index.html",
+      "/courses/ucla_psych120a_cog_psych/index.html",
+      "/courses/mac_psych100_intro_psych/index.html",
+      "/courses/mac_psych194_intro_cogsci/index.html",
+      "/courses/ucla_psych20a_matlab/index.html",
+      "/courses/ucla_psych85_intro_cogsci/index.html",
+      "/workshops/rmcc_far/index.html",
+      "/workshops/rmcc_afar_latent/index.html",
+      "/workshops/rmcc_afar_grouped/index.html",
+      "/workshops/mac_r/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2011-02-14-desirable-difficulties-math/index.html",
+      "/posts/2011-01-04-desirable-difficulties-classroom/index.html"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+---
+title: "Psychology of Student Learning"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Fall 2023"]
+first_taught: "2023"
+last_taught: "2023"
+times_taught: 1
+categories: [Learning, Cognition, Psychology, Education]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2023"
+projects: []
+subtitle: 'University of Minnesota'
+description: Cognitive psychology of student learning & education
+---
+
+This course is an introduction to the theories, data, and methods that compose Educational Psychology. The first third of the course will review those aspects of developmental psychology that are foundational for education. The second third will consider how cognitive psychology informs questions of learning, memory, knowledge, and reasoning. With this background in place, the final third of the course will focus on the classroom: on instruction, motivation, assessment, and individual differences. The class concludes with an optional lecture on how neuroscience informs education.

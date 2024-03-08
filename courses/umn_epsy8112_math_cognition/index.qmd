@@ -1,0 +1,30 @@
+---
+title: "Seminar: Mathematical Cognition"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Spring 2022", "Fall 2022"]
+first_taught: "2022"
+last_taught: "2022"
+times_taught: 2
+categories: [Mathematics, Cognition, Learning]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2022"
+projects: []
+subtitle: 'University of Minnesota'
+description: The cognitive science of mathematical thinking
+---
+
+Recent research in cognitive science is shedding new light on the long-standing question of how people understand mathematics. This course will provide a review of this research. We will read papers investigating how adults, children, and non-human primates understand fundamental mathematical concepts such as number, arithmetic, and algebra. The papers will be drawn from the psychology, neuroscience, and education literatures.
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please 
+    <a href="mailto:jbye@umn.edu">reach out to me!
+        <i class="bi bi-envelope" role='img' aria-label='Email'></i>
+    </a>
+:::

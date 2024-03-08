@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+
+// Colors
+$cream: #FDFBF7;
+$offwhite: #f8f8f2;
+$gray: #64605f;
+$dark-gray: #3E3E3E;
+$bg-color: #202B2B;
+
+// new colors from https://colorkit.co/palette/ffce96-de8042-5d9b84-5d455e/
+$sage: #5d9b84;
+$pumpkin: #de8042;
+$eggplant: #5d455e;
+$lilac: #AD80AF;
+$apricot: #ffce96;
+$coral: #FF7E79;
+
+
+// Base document colors
+$navbar-bg: $sage; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $eggplant; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $bg-color; // page text 
+$footer-bg: $bg-color; // footer 
+$link-color: $pumpkin; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $eggplant; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+// Callouts
+$callout-color-note: $lilac;
+$callout-color-tip: $sage;
+$callout-color-caution: $pumpkin;
+$callout-color-warning: $apricot;
+$callout-color-important: $coral;
+
+/*-- scss:rules --*/
+
+h1 {
+  color: $sage;
+}
+
+h2 {
+  color: $lilac;
+}
+
+.position {
+  color: $eggplant;
+}
+
+.listing-category {
+  color: $pumpkin !important;
+}
+
+.listing-author {
+  color: $eggplant;
+}
+
+.listing-date {
+  color: $dark-gray;
+}
+
+.list-group-item {
+  color: $dark-gray;
+  background-color: $cream;
+}
+
+.btn-outline-dark {
+  color: $pumpkin;
+}

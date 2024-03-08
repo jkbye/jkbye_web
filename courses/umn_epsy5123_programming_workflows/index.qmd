@@ -1,0 +1,34 @@
+---
+title: "Programming Workflows for Psychological Research"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Spring 2019", "Spring 2020", "Spring 2021", "Spring 2022", "Spring 2023"]
+first_taught: "2019"
+last_taught: "2023"
+times_taught: 5
+categories: [Programming, R, Reproducibility, Research Methods]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2023"
+projects: []
+subtitle: 'University of Minnesota'
+description: Reproducible statistical programming in R
+---
+
+::: callout-note
+I designed this course and have taught it 5 times from Fall 2019 through 2023.
+:::
+
+How can researchers use open-source programming to create a reproducible and flexible workflow? This course teaches programming and computer-based skills that are increasingly important methods in psychological research, like fundamental programming concepts, data wrangling in R, online experiments and surveys with JavaScript, version control with git, using the Open Science Framework, and writing reproducible reports with R Markdown. It emphasizes open science practices and readily implementable skills for a more streamlined and automated research workflow. The course is taught with an active, hands-on approach to programming, including class discussions and group work. It is designed to be accessible to students without any prior programming experience.
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please 
+    <a href="mailto:jbye@umn.edu">reach out to me!
+        <i class="bi bi-envelope" role='img' aria-label='Email'></i>
+    </a>
+:::

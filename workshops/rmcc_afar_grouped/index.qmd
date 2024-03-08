@@ -1,0 +1,27 @@
+---
+title: "Advanced Foundations & Applications of R: Grouped & Nested Data"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2020", "Summer 2021"]
+first_taught: "2020"
+last_taught: "2021"
+times_taught: 2
+categories: [Programming, R, Statistics, Data Visualization]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2021"
+projects: []
+subtitle: 'Research Methodology Consulting Center'
+description: Modeling grouped and nested data in R
+---
+
+::: callout-note
+I co-designed this course with Ethan Brown and we co-taught it 3 times over summer from 2020 to 2021.
+:::
+
+**AFAR Grouped** is a 2.5 day online workshop designed to support participants in modeling grouped and nested data, including hierarchical linear modeling (HLM) and longitudinal models. There are many types of nested data that need to be accounted for in analysis--perhaps you have students in classrooms (hierarchical linear models), or longitudinal data. We’ll cover how the R package `lme4` handles these situations by elegantly extending R’s formula interface, as well as data handling issues such as merging & reshaping.

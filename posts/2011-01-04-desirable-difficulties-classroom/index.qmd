@@ -1,0 +1,79 @@
+---
+title: "Desirable Difficulties in the Classroom"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+date: "2011-01-04"
+categories: [Education, Research, Learning & Memory]
+draft: false
+featured: false
+image: featured.jpg
+lastmod: "2011-01-04T00:00:00Z"
+projects: []
+subtitle: ''
+description: When making learning harder makes learning last.
+tags:
+- Psychology in Action
+- Repost
+- Learning
+- Memory
+- Classroom
+citation: 
+  type: post-weblog
+  container-title: "Psychology Today"
+  author: Jeffrey Bye
+  issued: 2011-05-05
+  url: https://www.psychologytoday.com/us/blog/all-about-addiction/201105/desirable-difficulties-in-the-classroom
+---
+
+![Image credit: Jeffrey Hamilton on [**Unsplash**](https://unsplash.com/photos/jrRe6er0pY0)](featured.jpg){fig-alt="Photograph of a classroom."}
+
+::: callout-note
+This blog post was originally published on the [Psychology in Action](https://www.psychologyinaction.org/2011-01-04-desirable-difficulties-in-the-classroom/) blog in January 2011, and later republished on [Psychology Today](https://www.psychologytoday.com/us/blog/all-about-addiction/201105/desirable-difficulties-in-the-classroom) in May 2011.
+:::
+
+Over the last couple of decades, learning and memory researchers have become increasingly interested in bringing scientific findings out of the lab and into the classroom, where they can be implemented into teaching methods to produce more efficient and effective learning. In a nation mired in an educational crisis, there’s never been a better time or place to bridge the gap between modern scientific knowledge and outdated teaching techniques. One of the greatest insights in the last 20 years that has serious potential to improve classroom teaching has been Robert Bjork’s concept of *desirable difficulties* (Bjork, 1994; McDaniel & Butler, in press), which suggests that **introducing certain difficulties into the learning process can greatly improve long-term retention of the learned material**. In psychology studies thus far, these difficulties have generally been modifications to commonly used methods that add some sort of additional hurdle during the learning or studying process. Some notable examples:
+
+-   **Spacing** learning sessions apart rather than massing them together (Baddeley & Longman, 1978; Dempster, 1990)
+
+-   **Testing** learners on material rather than having them simply restudy it (Roediger & Karpicke, 2006)
+
+-   Having learners **generate** target material through a puzzle or other kind of active process, rather than simply reading it passively (McDaniel et al., 1994)
+
+-   **Varying** the settings in which learning takes place (Smith, Glenberg, & Bjork, 1978)
+
+-   Making material **less clearly organized** for learners with some background knowledge (McNamara et al., 1996)
+
+-   Using fonts that are slightly **harder to read** (Diemand-Yauman, Oppenheimer, & Vaughan, in press)
+
+What all of these difficulties have in common is that they seem to encourage a **deeper processing** of material than people would normally engage in without explicit instruction to do so. It’s understandable why students would want learning to be easier, and why teachers would want to make it easier. If an instructor tries a few different approaches to teaching some concept or material, she would likely conclude that the approach which leads to the most immediate and observable signs of student improvement is the best one. In fact, when teachers try to facilitate learning by making it as easy as possible, this may increase the immediately observable short-term performance, but it decreases the more important long-term retention. In short, **we often seek to eliminate difficulties in learning, to our own detriment.**
+
+To appreciate why difficulties might actually be desirable, it helps to first understand the distinction between performance, which is observable during learning and testing, and the actual learning itself, which is a long-term process that is difficult to measure. Consider the somewhat simplified example of a history student memorizing a list of important events and the dates they happened. In psychology lingo, we’d say she learns an association between a cue (the event) and a response (the date). The student might notice a rapid increase in her performance as dates are recalled more frequently and confidently over the course of a particular studying session. But if she only studies the list once, a few days later she will probably remember just a fraction of these dates, even if she had been performing perfectly by the end of her studying. The increased accessibility of the dates at the end of a learning session is akin to the idea that something is “fresh on your mind.” So if we watch the student reach perfect recall, we are observing her increased performance, but her rapid improvement does not ensure that the information will be accessible in the long term. Because the dates are “fresh”, her effortless recall at the end is misleading, as the freshness will fade quickly without further study or review; the dates, though easily relearned, will fall below the threshold of accessibility.
+
+In their “New Theory of Disuse” (NTD) framework, Bjork and Bjork (1992) convincingly argue for a theoretical distinction between **retrieval strength**, the *immediate accessibility* of some knowledge at any given moment, and **storage strength**, the measure of how many times that knowledge has been accessed over the *long term*. Storage strength is theoretically infinite (we can learn as much as we want about as many things as we want), but it does not directly influence our performance; our ability to access a particular stored memory at some point in time is *entirely determined* by its current retrieval strength. Unlike storage strength, which can only increase over time, retrieval strength fades, and when storage strength is low (such as in newly learned information), it fades even more quickly.
+
+Applying the NTD framework to the example above, the retrieval strength for each date is increased dramatically throughout the session until it reaches a ceiling around perfect recall; the storage strength, however, is only gradually increased, and because it is low overall (the dates have only recently been learned) retrieval strength will fall quickly with disuse. Thus, the heightened performance at the end of a training session is due to higher retrieval strength, but this does not translate to long-term retention, which is determined by the relationship between storage and retrieval strengths (for a more complete explanation of the complex interactions between storage and retrieval strengths, see Bjork & Bjork, 1992). **Making learning too easy and straightforward can cause a misleading boost in the retrieval strength without causing the deeper processing that encourages the long-term retention afforded by higher storage strength.**
+
+The biggest obstacle in implementing desirable difficulties into classroom curricula is likely to be convincing teachers and students alike that these difficulties are indeed desirable. When learning is difficult, people make more errors, and they infer from this that their method is ineffective. In the short term, difficulties inhibit performance, causing more errors and more apparent forgetting. But it is this forgetting that actually benefits the learner in the long term; relearning forgotten material takes demonstrably less time with each iteration. These “savings” that arise from forgetting and relearning in spaced trials were first documented over 120 years ago ([Ebbinghaus, 1885/1964](https://www.psychologyinaction.org/psychology-in-action-1/2010/06/03/remembering-how-we-learned-about-forgetting)), and yet they still are not well utilized in education or understood by the general public. This is likely because long-term benefits are less noticeable. The spacing effect, for example, is a robust finding across many areas of learning, and yet most people believe massed practice is more effective (Bjork, 1994). In reality, there are short-term benefits to massing (cramming for a test the night before can help you pass the test), but the fact that spacing greatly improves long-term retention is less obvious.
+
+Education is supposed to be about teaching knowledge and skills that students will use throughout their lives. So it should go without saying that teachers should utilize methods that facilitate long-term retention, especially when those methods are easy to implement. As [discussed](https://www.psychologyinaction.org/psychology-in-action-1/2010/12/17/more-school-better-test-scores) by Yalda T. Uhls, our shorter school year doesn’t explain America’s low scores on PISA tests. We have to focus less on *how much* we teach and more on *how* we teach, and how we can improve it.
+
+Education reformers should keep in mind that **teachers and administrators may be improving short-term performance when they design curricula to be as easy as possible, but they may also be hurting long-term learning**. As our scientific understanding of the dynamics of desirable difficulties improves, so should our implementation of these practices into our educational system. While we need further research into desirable difficulties, we also greatly need **dialogue between scientists and teachers to help improve learning in the classroom**.
+
+Citations:
+
+1.  Baddeley, A.D., & Longman, D.J.A. (1978). The influence of length and frequency of training session on the rate of learning to type. Ergonomics, 21, 627-635.
+2.  Bjork, R.A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 185-205). Cambridge, MA: MIT Press.
+3.  Bjork, R.A., & Bjork, E.L. (1992). A new theory of disuse and an old theory of stimulus fluctuation. In A. Healy, S. Kosslyn, & R. Shiffrin (Eds.), From Learning Processes to Cognitive Processes: Essays in Honor of William K. Estes (Vol. 2, pp. 35-67). Hillsdale, NJ: Erlbaum.
+4.  Dempster, F.N. (1990). The spacing effect: A case study in the failure to apply the results of psychological research. American Psychologist, 43, 627-634.
+5.  Diemand-Yauman, C., Oppenheimer, D.M., & Vaughan, E.B. (in press). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. Cognition.
+6.  Ebbinghaus, H. (1964). Memory: A contribution to experimental psychology. (H.A. Ruger & C.E. Bussenius, translators) New York: Dover. (Original work published 1885).
+7.  Kornell, N., & Bjork, R.A. (2008). Learning concepts and categories: Is spacing the “enemy of induction”? Psychological Science, 19, 585-592.
+8.  McDaniel, M.A., & Butler, A.C. (in press). A contextual framework for understanding when difficulties are desirable. In A.S. Benjamin (Ed.), Successful remembering and successful forgetting: a Festschrift in honor of Robert A. Bjork. London, UK: Psychology Press.
+9.  McDaniel, M.A., Hines, R.J., Waddill, P.J., & Einstein, G.O. (1994). What makes folk tales unique: Content familiarity, causal structure, scripts, or superstructures? Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 169–184.
+10. McNamara, D.S., Kintsch, E., Songer, N.B., & Kintsch, W. (1996). Are good texts always better? Interactions of text coherence, background knowledge, and levels of understanding in learning from text. Cognition and Instruction, 14, 1-43.
+11. Roediger, H.L., III, & Karpicke, J.D. (2006). The power of testing memory: Basic research and implications for educational practice. Perspectives on Psychological Science, 1, 181-120.
+12. Smith, S.M., & Glenberg, A., & Bjork, R.A. (1978). Environmental context and human memory. Memory & Cognition, 6, 342-353.

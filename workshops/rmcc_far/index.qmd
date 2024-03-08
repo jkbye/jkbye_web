@@ -1,0 +1,31 @@
+---
+title: "Foundations & Applications of R (FAR)"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Summer 2019", "Summer 2020", "Summer 2021"]
+first_taught: "2019"
+last_taught: "2021"
+times_taught: 3
+categories: [Programming, R, Statistics, Data Visualization]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2021"
+projects: []
+subtitle: 'Research Methodology Consulting Center'
+description: Intro to stats in R
+---
+
+::: callout-note
+I co-designed this course with Ethan Brown and we co-taught it 3 times over summer from 2019 to 2021.
+:::
+
+FAR is a one-week online workshop designed to help participants learn how to tidy, visualize, and model data in R. This workshop is open to all: graduate students, postdocs, faculty, lecturers, and external researchers––and **no prior programming experience** is required or expected. By the end of this workshop, FAR students (along with other experienced R users) will be able to attend either of the Advanced workshops (AFAR Grouped and AFAR Latent).
+
+Goals: Provide students with 1) an understanding of the **fundamental concepts** of scripting and programming using the R language 2) a set of **concrete skills** and **resources** for harnessing the power of R for tidying, visualizing, and modeling social science data. The emphasis will be on using R as a tool for analyzing and understanding data rather than on the details of statistical techniques.
+
+Structure: This workshop is primarily organized around online activities, blending **asynchronous lessons** with daily **synchronous class discussion**. The workshop employs **active learning** techniques to get participants programming and solving problems as quickly as possible. During asynchronous portions, participants will work on **programming exercises**, while both instructors check student progress and provide assistance. The workshop is led by two instructors with extensive R and teaching experience and will be limited to only 50 students to ensure an active and **supportive** learning environment for all. Resources will be provided to participants to summarize what was covered during the day and provide tools for further study.

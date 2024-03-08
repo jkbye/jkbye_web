@@ -1,0 +1,37 @@
+---
+title: "Introduction to Cognitive Science"
+author:
+  - name: "Jeffrey K. Bye"
+    url: http://www.jkbye.com
+    orcid: 0000-0002-2636-3657
+    affiliation: Educational Psychology, University of Minnesota
+    affiliation-url: https://edpsych.umn.edu/
+semesters: ["Fall 2018"]
+first_taught: "2018"
+last_taught: "2018"
+times_taught: 1
+categories: [Cognition, Psychology, Computation]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2018"
+projects: []
+subtitle: 'Macalester College'
+description: Intro-level course in cognitive science
+---
+
+This course is intended to present a broad but engaging introduction to the highly interdisciplinary field of cognitive science, encompassing research from the disciplines of psychology, philosophy, neuroscience, linguistics, anthropology, and artificial intelligence. Cognitive science is more than the sum of these parts, however, as it is unified by a theoretical model of the mind as an information processor, with cognitive scientists’ goal to discover the systems of representation and operation that characterize mental processes. Because the content covered in cognitive science is vast, we will explore and expand on overarching themes, methods, and approaches as we take deep dives into specific topics, such as the nature of thinking, reasoning, and language. Required reading will consist of primary sources, with optional supplemental material, and classes will consist of a mixture of lecture and discussion.
+
+While the structure of the course splits up topic areas across different lectures, we will focus throughout on fundamental questions of cognitive science:
+
+> How do minds process the world? How do minds acquire, revise, and represent information? How do minds utilize information to guide thought and action?
+
+As much as possible, we will also discuss how cognitive science operates as a science: 
+
+> How can we observe and quantify the mind? What are the strengths and weaknesses of experiments? Of neuroimaging? Of models and theories?
+
+Keep these questions ‘in mind’ throughout this course to guide your learning.
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+:::
