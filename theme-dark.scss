@@ -41,8 +41,8 @@ $navbar-fg: $cream; // navbar foreground elements
 $navbar-hl: $eggplant; // highlight color when hovering over navbar links
 $body-bg: $bg-color; // page background 
 $body-color: $offwhite; // page text 
-$footer-bg: $bg-color; // footer 
-$footer-fg: $eggplant; // footer 
+$footer-bg: $dark-gray; // footer 
+$footer-fg: $lilac; // footer 
 $link-color: $apricot; // hyperlinks 
 
 // Inline code
@@ -104,4 +104,8 @@ a.position {
 
 .listing-date {
   color: $cream;
+}
+
+.nav-footer a {
+  color: $pumpkin !important;
 }

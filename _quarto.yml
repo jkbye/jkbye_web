@@ -19,8 +19,12 @@ website:
         text: Lab
   page-footer:
     background: dark
-    right:
+    left:
       - "© 2024, Jeffrey K. Bye"
+    right:
+      - "Site built in <a href='https://quarto.org/docs/websites/'>Quarto</a>.
+        <a href='https://github.com/jkbye/jkbye_web?tab=readme-ov-file#readme'>Learn more.</a>"
+
 
 format:
   html:
