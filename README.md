@@ -1,1 +1,1 @@
-quarto website to deploy to jkbye.com
+This is my personal Quarto website to deploy to [`jkbye.com`](www.jkbye.com). If you'd like to adapt any code for your site, please do so! Feel free to reach out if you have any questions (or suggestions!)
