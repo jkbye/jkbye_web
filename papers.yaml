@@ -107,7 +107,7 @@ jnc_alg:
 
 pv1:
   type: "Article"
-  title: "Categorical Perception of *p*-Values"
+  title: "Categorical Perception of p-values"
   authors:
       - V. N. Vimal Rao
       - me
