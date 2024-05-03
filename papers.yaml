@@ -1,3 +1,17 @@
+pv2:
+  type: "Article"
+  title: "The psychological reality of the learned 'p < .05' boundary"
+  authors:
+      - V. N. Vimal Rao
+      - me
+      - Sashank Varma
+  year: 2024
+  date: 2024-05-03
+  doi: https://doi.org/10.1186/s41235-024-00553-x
+  pdf: https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-024-00553-x.pdf
+  published_url: https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-024-00553-x
+  journal: "Cognitive Research: Principles and Implications"
+
 dpf:
   type: "Article"
   title: "Debugging pathways: Open-ended discrepancy noticing, causal reasoning, and intervening"

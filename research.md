@@ -15,7 +15,14 @@ How do children and adults learn and think about math, data, science, and progra
 ### 2024{#published-2024}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>David DeLiema, <strong>Jeffrey K. Bye</strong>, & Vijay Marupudi (2024). Debugging pathways: Open-ended discrepancy noticing, causal reasoning, and intervening. <em>ACM Transactions on Computing Education</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1145/3650115" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). The psychological reality of the learned 'p < .05' boundary. <em>Cognitive Research: Principles and Implications</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-024-00553-x.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li>
+<li class='list-group-item'>David DeLiema, <strong>Jeffrey K. Bye</strong>, & Vijay Marupudi (2024). Debugging pathways: Open-ended discrepancy noticing, causal reasoning, and intervening. <em>ACM Transactions on Computing Education</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1145/3650115" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://dl.acm.org/doi/pdf/10.1145/3650115" target="_blank" rel="noopener noreferrer">
