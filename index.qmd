@@ -14,23 +14,23 @@ about:
     - icon: envelope
       text: Email
       href: mailto:jbye@umn.edu
-    - icon: github
-      text: GitHub
-      href: https://github.com/jkbye
-    - text: "{{< ai publons >}} Publons"
-      href: https://publons.com/researcher/1737417/jeffrey-k-bye/
-    - text: "{{< ai osf >}} OSF"
-      href: https://osf.io/tz74m/
     - text: "{{< ai google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=yecDaUIAAAAJ
     - text: "{{< ai orcid >}} ORCiD"
       href: https://orcid.org/0000-0002-2636-3657
+    - icon: github
+      text: GitHub
+      href: https://github.com/jkbye
+    - text: "{{< ai clarivate >}} Web of Sci"
+      href: https://www.webofscience.com/wos/author/record/32619399
+    - text: "{{< ai osf >}} OSF"
+      href: https://osf.io/tz74m/
 ---
 
 ### Hello,
 I am a Lecturer in the [Educational Psychology](https://www.cehd.umn.edu/edpsych/) department at the [University of Minnesota](https://twin-cities.umn.edu/), and the Managing Director and Affiliate Faculty of the [Learning Informatics Lab](https://innovation.umn.edu/informatics/).
 
-I'm an interdisciplinary cognitive scientist interested in how people learn and think about math, data, and programming. I love to teach statistics, computing, cognition, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent and effective.
+I'm an interdisciplinary cognitive scientist interested in how people learn and think about math, data, and programming. I love to teach cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
 
 
 ::: {.activities}
