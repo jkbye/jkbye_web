@@ -1,9 +1,9 @@
 ---
 title: "Jeffrey K. Bye
-        <p class='position'>Lecturer, 
-        <a href='https://edpsych.umn.edu/'>Educational Psychology</a>
-        <br><a href='https://twin-cities.umn.edu/'>
-        University of Minnesota</a></p>"
+        <p class='position'>(Incoming) Asst. Prof., 
+        <a href='https://www.csudh.edu/psychology/'>Psychology</a>
+        <br><a href='https://www.csudh.edu/'>
+        Cal State Dominguez Hills</a></p>"
 image: headshot.jpg
 toc: false
 about: 
@@ -28,9 +28,9 @@ about:
 ---
 
 ### Hello,
-I am a Lecturer in the [Educational Psychology](https://www.cehd.umn.edu/edpsych/) department at the [University of Minnesota](https://twin-cities.umn.edu/), and the Managing Director and Affiliate Faculty of the [Learning Informatics Lab](https://innovation.umn.edu/informatics/).
+I am an incoming Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/) (starting Fall 2024). I previously taught as a lecturer at the [University of Minnesota](https://www.cehd.umn.edu/edpsych/) and  [UCLA](https://www.psych.ucla.edu/).
 
-I'm an interdisciplinary cognitive scientist interested in how people learn and think about math, data, and programming. I love to teach cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
+I'm an interdisciplinary cognitive scientist interested in how people learn and think about math and science. I love to teach and discuss cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
 
 
 ::: {.activities}
@@ -41,7 +41,6 @@ I'm an interdisciplinary cognitive scientist interested in how people learn and 
 * Math Learning
 * Mathematical Cognition
 * Causal Learning
-* Programming Instruction
 * Statistical Thinking
 * Open Science
 * Science Communication

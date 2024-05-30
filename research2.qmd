@@ -1,9 +1,0 @@
----
-title: "Research"
-listing:
-  - id: articles
-    contents: papers
-    type: default
-    fields: [image, title, year, authors]
-    #template: research.ejs
----
