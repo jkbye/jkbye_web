@@ -6,17 +6,14 @@ keep-md: true
 ---
 
 
-
-
 How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
 
 
 
 ## Peer-Reviewed Journal Articles
 
+::: {#published-year .cell execution_count=2}
 ### 2024{#published-2024}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). The psychological reality of the learned 'p < .05' boundary. <em>Cognitive Research: Principles and Implications</em><em>, 9</em>(27).<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
@@ -35,11 +32,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2023{#published-2023}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Pei-Jung Chuang, & Patricia W. Cheng (2023). How do humans want causes to combine their effects? The role of analytically-defined causal invariance for generalizable causal knowledge. <em>Cognition</em><em>, 230</em>, 105303.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.cognition.2022.105303" target="_blank" rel="noopener noreferrer">
@@ -62,11 +55,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2022{#published-2022}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Rina M. Harsch, & Sashank Varma (2022). Decoding fact fluency and strategy flexibility in solving one-step algebra problems: An individual differences analysis. <em>Journal of Numerical Cognition</em><em>, 8</em>(2), 281-294.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.5964/jnc.7093" target="_blank" rel="noopener noreferrer">
@@ -92,11 +81,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2020{#published-2020}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>Michèle M. M. Mazzocco, Jenny Yun-Chen Chan, <strong>Jeffrey K. Bye</strong>, Emily R. Padrutt, Taylor Praus-Singh, Sarah Lukowski, Ethan Brown, & Rachel E. Olson (2020). Attention to numerosity varies across individuals and task contexts. <em>Mathematical Thinking and Learning</em><em>, 22</em>(4), 258-280.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.cogpsych.2021.101432" target="_blank" rel="noopener noreferrer">
@@ -105,11 +90,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2016{#published-2016}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>Val L. Collins, Venuz Y. Greenfield, <strong>Jeffrey K. Bye</strong>, Kay E. Linker, Alice S. Wang, & Kate M. Wassum (2016). Dynamic mesolimbic dopamine signaling during action sequence learning and expectation violation. <em>Scientific Reports</em><em>, 6</em>, 20231.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1038/srep20231" target="_blank" rel="noopener noreferrer">
@@ -121,15 +102,13 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
+:::
 
 
 ## Peer-Reviewed Conference Proceeding Papers
 
+::: {#proceedings-year .cell execution_count=3}
 ### 2023{#not-published-2023}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>Andrea Wilson Vazquez, David DeLiema, Megan Goeke, & <strong>Jeffrey K. Bye</strong> (2023). Debugging debugging instruction: A research-practice partnership in K-8 computer science education. In <em>Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023</em>, (pp. 2275-2278).<br><a class="btn btn-outline-dark btn-sm", href="https://repository.isls.org//handle/1/10246" target="_blank" rel="noopener noreferrer">
@@ -141,11 +120,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2022{#not-published-2022}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2022). Graduate students' effect size categorical boundaries. In <em>Proceedings of the 11th International Conference on Teaching Statistics (ICOTS11 2022)</em>.<br><a class="btn btn-outline-dark btn-sm", href="http://doi.org/10.52041/iase.icots11.T3C2" target="_blank" rel="noopener noreferrer">
@@ -157,11 +132,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2021{#not-published-2021}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'>Vijay Marupudi, Rina Harsch, V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, Jimin Park, & Sashank Varma (2021). The role of clustering in the efficient solution of small traveling salesperson problems. In <em>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</em>, (pp. 1865-1871).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/5q76r06x" target="_blank" rel="noopener noreferrer">
@@ -173,11 +144,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2020{#not-published-2020}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Pei-Jung Chuang, Lauren E. Anthony, & Patricia W. Cheng (2020). Teaching the purpose and meaning of algebraic variables through systems-of-equations story problems: Multimedia approaches. In <em>Proceedings of the 14th International Conference of the Learning Sciences - ICLS 2020</em>, (pp. 1799-1800).<br><a class="btn btn-outline-dark btn-sm", href="https://repository.isls.org//handle/1/6449" target="_blank" rel="noopener noreferrer">
@@ -189,11 +156,7 @@ How do children and adults learn and think about math, data, science, and progra
     </a></li></ul>
 ```
 
-
-
 ### 2014{#not-published-2014}
-
-
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Bryan D. Nguyen, Hongjing Lu, & Scott P. Johnson (2014). Anticipating an effect from predictive visual sequences: Development of infants' causal inference from 9 to 18 months. In <em>Proceedings of the 36th Annual Meeting of the Cognitive Science Society</em>, (pp. 1976-1981).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/08b0j4td" target="_blank" rel="noopener noreferrer">
@@ -204,3 +167,7 @@ How do children and adults learn and think about math, data, science, and progra
         PDF
     </a></li></ul>
 ```
+
+:::
+
+

@@ -1,11 +1,11 @@
 ---
 title: "Social & Developmental Psychology of Education"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Spring 2024"]
 first_taught: "2024"
 last_taught: "2024"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2024"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Social psychology of education and child development
 ---
 

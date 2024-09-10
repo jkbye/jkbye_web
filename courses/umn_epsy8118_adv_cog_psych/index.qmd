@@ -1,11 +1,11 @@
 ---
 title: "Advanced Cognitive Psychology"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Fall 2020", "Fall 2021"]
 first_taught: "2020"
 last_taught: "2021"
@@ -16,12 +16,12 @@ featured: false
 #image: featured.jpg
 lastmod: "2021"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Ph.D.-level course on cognitive psychology research
 ---
 
 This course is an introduction to theories and behavioral data of cognitive psychology of greatest relevance to education. It is "advanced" in three senses. First, it focuses on high-level and complex forms of cognition. Second, it emphasizes the historical development of theoretical proposals and empirical findings. Third, it supplements conventional textbook readings with papers from the research literature. The topics covered will include: executive function and cognitive control, working memory, long-term memory, learning, transfer, knowledge representation, automaticity, expertise, problem solving, logical reasoning, judgment and decision-making, fluid intelligence, visuospatial thinking, language comprehension, mathematical thinking, scientific reasoning, and individual differences.
 
 ::: callout-tip
-Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jkbye@csudh.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
 :::

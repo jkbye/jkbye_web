@@ -1,0 +1,18 @@
+---
+title: "Research Seminar in Cognitive Psychology (Lab)"
+semesters: ["Fall 2024"]
+first_taught: "2024"
+last_taught: "2024"
+times_taught: 2
+categories: [Cognition, Psychology, Research Methods, Experiments]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2024"
+projects: []
+subtitle: 'CSUDH'
+description: Advanced undergraduate course on cognitive psychology research methods
+---
+
+The course is focused on the design, execution, and interpretation of experiments on human cognition. We will examine the assumptions, limitations, and strengths of various experimental methods in cognitive psychology, by thinking deeply about what it means to study something as complex as the mind through scientific means. This lab course will provide you with opportunities to consolidate knowledge gleaned from the paired lecture course (PSY 415). For example, in collaboration with members of your research team, you will conduct an experiment within the domain of cognitive psychology and write up your research findings in APA style. To facilitate the writing of the research paper, you will complete structured assignments throughout the semester (e.g., submitting multiple drafts of your research paper, APA style activities, completing human subjects training). By the end of the semester, you will have received first-hand experience translating knowledge gleaned from the lecture-based component of the course as well as methodological knowledge from the lab-based component of the course to conduct your own cognitive psychological experiment.
+

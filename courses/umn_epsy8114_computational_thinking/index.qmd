@@ -1,11 +1,11 @@
 ---
 title: "Seminar: Computational Thinking"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Spring 2021"]
 first_taught: "2021"
 last_taught: "2021"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2021"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Multidisciplinary research on computational thinking
 ---
 
@@ -24,7 +24,7 @@ Computational Thinking (CT) is increasingly important in STEM disciplines and in
 
 ::: callout-tip
 Interested in this course? I'm happy to share materials -- please 
-    <a href="mailto:jbye@umn.edu">reach out to me!
+    <a href="mailto:jkbye@csudh.edu">reach out to me!
         <i class="bi bi-envelope" role='img' aria-label='Email'></i>
     </a>
 :::

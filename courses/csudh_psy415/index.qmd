@@ -1,0 +1,19 @@
+---
+title: "Advanced Research Methods in Cognitive Psychology"
+semesters: ["Fall 2024"]
+first_taught: "2024"
+last_taught: "2024"
+times_taught: 1
+categories: [Cognition, Psychology, Research Methods]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2024"
+projects: []
+subtitle: 'CSUDH'
+description: Advanced undergraduate course on cognitive psychology research methods
+---
+
+Cognitive psychology is a sub-discipline of psychology that focuses on human mental processes. For example, in this course, we will cover a variety of topics including: perception, attention, memory, and decision-making in addition to other topics. Lectures will consist of slides, short videos of experiments and relevant course content, and live demonstrations of experiments. At the end of the course, students should be prepared to understand not just what contemporary cognitive psychologists study, but why and how.
+
+

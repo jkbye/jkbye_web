@@ -19,4 +19,4 @@ listing:
 view: 2
 ---
 
-Here are some featured blog posts of mine from my time at [Psychology in Action](https://www.psychologyinaction.org/) (where I also served as president and organized five [interdisciplinary symposia](https://www.psychologyinaction.org/events/)). This includes one blog that was reposted at [*Psychology Today*](https://www.psychologytoday.com). More recently, I co-authored a post at [*Upstream*](https://upstream.force11.org/), and I hope to publish more here soon.
+Here are some featured blog posts of mine from my time at [Psychology in Action](https://www.psychologyinaction.org/) (where I also served as president and organized five [interdisciplinary symposia](https://www.psychologyinaction.org/events/)). This includes one blog that was reposted at [*Psychology Today*](https://www.psychologytoday.com). More recently, I co-authored a post at [*Upstream*](https://upstream.force11.org/). I hope to publish more directly to this page soon.

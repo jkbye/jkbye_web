@@ -1,11 +1,11 @@
 ---
 title: "Seminar: Mathematical Cognition"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Spring 2022", "Fall 2022"]
 first_taught: "2022"
 last_taught: "2022"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2022"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: The cognitive science of mathematical thinking
 ---
 
@@ -24,7 +24,7 @@ Recent research in cognitive science is shedding new light on the long-standing 
 
 ::: callout-tip
 Interested in this course? I'm happy to share materials -- please 
-    <a href="mailto:jbye@umn.edu">reach out to me!
+    <a href="mailto:jkbye@csudh.edu">reach out to me!
         <i class="bi bi-envelope" role='img' aria-label='Email'></i>
     </a>
 :::

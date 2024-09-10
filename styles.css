@@ -28,10 +28,18 @@ a:hover {
   font-weight: 600;
 }
 
-.position {
+.pronouns {
   font-weight: 300;
   font-size: .5em;
-  line-height: 1.2em;
+  line-height: .5em;
+  margin-bottom: 0em;
+}
+
+.position {
+  margin-top: -2.5em;
+  font-weight: 300;
+  font-size: .5em;
+  line-height: 1em;
 }
 
 .about-entity {

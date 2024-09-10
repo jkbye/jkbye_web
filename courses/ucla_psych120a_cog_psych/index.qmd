@@ -1,11 +1,11 @@
 ---
 title: "Cognitive Psychology"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Summer 2017"]
 first_taught: "2017"
 last_taught: "2018"
@@ -31,5 +31,5 @@ As much as possible, we will also discuss how cognitive psychology operates as a
 Keep these questions ‘in mind’ throughout this course to guide your learning.
 
 ::: callout-tip
-Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jkbye@csudh.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
 :::

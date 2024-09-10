@@ -1,11 +1,11 @@
 ---
 title: "Programming Fundamentals for Social Science Researchers"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Fall 2019", "Fall 2020", "Fall 2021", "Fall 2022", "Fall 2023"]
 first_taught: "2019"
 last_taught: "2023"
@@ -16,19 +16,19 @@ featured: false
 #image: featured.jpg
 lastmod: "2023"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Intro to programming in Python for social science research.
 ---
 
 ::: callout-note
-I designed this course and have taught it 5 times from Fall 2019 through 2023.
+I designed this course and taught it 5 times from Fall 2019 through 2023.
 :::
 
 What is computer programming, and how can it be used to improve your research? This course teaches the fundamental concepts and techniques of programming using the open-source Python 3 language, while emphasizing a variety of applications to social science research, including data analysis, visualization, task automation, and retrieving data from the internet through APIs and scraping. The course covers fundamental programming concepts, as well as software engineering topics such as writing robust code, testing, debugging, collaboration, version control, and working with file systems. The course is taught with an active, hands-on approach to programming, including class discussions and group work. It is designed to be accessible to students without any prior programming experience.
 
 ::: callout-tip
 Interested in this course? I'm happy to share materials -- please 
-    <a href="mailto:jbye@umn.edu">reach out to me!
+    <a href="mailto:jkbye@csudh.edu">reach out to me!
         <i class="bi bi-envelope" role='img' aria-label='Email'></i>
     </a>
 :::

@@ -1,11 +1,11 @@
 ---
 title: "Psychology of Student Learning"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Fall 2023"]
 first_taught: "2023"
 last_taught: "2023"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2023"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Cognitive psychology of student learning & education
 ---
 

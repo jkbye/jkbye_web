@@ -1,11 +1,11 @@
 ---
 title: "Introduction to Psychology"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Fall 2018"]
 first_taught: "2018"
 last_taught: "2018"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2018"
 projects: []
-subtitle: 'Macalester College'
+subtitle: 'Macalester'
 description: Intro-level course for psychology undergrads
 ---
 

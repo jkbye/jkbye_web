@@ -1,6 +1,8 @@
 ---
-title: "Jeffrey K. Bye
-        <p class='position'>(Incoming) Asst. Prof., 
+title: "Jeffrey Kramer Bye
+        <p class='pronouns'>(he/him/his)</p>
+        <p class='position'>
+        Assistant Professor,
         <a href='https://www.csudh.edu/psychology/'>Psychology</a>
         <br><a href='https://www.csudh.edu/'>
         Cal State Dominguez Hills</a></p>"
@@ -13,7 +15,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:jbye@umn.edu
+      href: mailto:jkbye@csudh.edu
     - text: "{{< ai google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=yecDaUIAAAAJ
     - text: "{{< ai orcid >}} ORCiD"
@@ -28,7 +30,7 @@ about:
 ---
 
 ### Hello,
-I am an incoming Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/) (starting Fall 2024). I previously taught as a lecturer at the [University of Minnesota](https://www.cehd.umn.edu/edpsych/) and  [UCLA](https://www.psych.ucla.edu/).
+I am an Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/). I previously taught at the [University of Minnesota](https://www.cehd.umn.edu/edpsych/) and  [UCLA](https://www.psych.ucla.edu/).
 
 I'm an interdisciplinary cognitive scientist interested in how people learn and think about math and science. I love to teach and discuss cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
 
@@ -44,6 +46,7 @@ I'm an interdisciplinary cognitive scientist interested in how people learn and 
 * Statistical Thinking
 * Open Science
 * Science Communication
+* Data Literacy
 
 :::
 

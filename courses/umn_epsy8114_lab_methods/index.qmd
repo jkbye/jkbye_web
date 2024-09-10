@@ -1,11 +1,11 @@
 ---
 title: "Learning & Cognition Laboratory Methods"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Spring 2022", "Spring 2023"]
 first_taught: "2022"
 last_taught: "2023"
@@ -16,19 +16,19 @@ featured: false
 #image: featured.jpg
 lastmod: "2023"
 projects: []
-subtitle: 'University of Minnesota'
+subtitle: 'UMN'
 description: Methodology and philosophy of psychological science
 ---
 
 ::: callout-note
-I designed this course and have taught it 2 times from Spring 2022 through 2023.
+I designed this course and taught it 2 times from Spring 2022 through 2023.
 :::
 
 The course is focused on the design, execution, and interpretation of experiments on human learning and cognition. In the first part of the course, we'll critically read and discuss published experiments focusing on the assumptions, limitations, and strengths of their methods, including papers on language, memory, learning and transfer, decision making, and reasoning. This will be supplemented with more philosophical readings on psychological science. In the second part of the course, students work with the course instructor and their advisor to design a novel pilot experiment that directly applies methodological knowledge to their own research area. The final product will include a pilot study we will complete in class, an analysis plan, a mock write-up for a conference submission, and a conference-length oral presentation.
 
 ::: callout-tip
 Interested in this course? I'm happy to share materials -- please 
-    <a href="mailto:jbye@umn.edu">reach out to me!
+    <a href="mailto:jkbye@csudh.edu">reach out to me!
         <i class="bi bi-envelope" role='img' aria-label='Email'></i>
     </a>
 :::

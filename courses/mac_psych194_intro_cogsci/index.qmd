@@ -1,11 +1,11 @@
 ---
 title: "Introduction to Cognitive Science"
-author:
-  - name: "Jeffrey K. Bye"
-    url: http://www.jkbye.com
-    orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+# author:
+#   - name: "Jeffrey K. Bye"
+#     url: http://www.jkbye.com
+#     orcid: 0000-0002-2636-3657
+#     affiliation: Educational Psychology, University of Minnesota
+#     affiliation-url: https://edpsych.umn.edu/
 semesters: ["Fall 2018"]
 first_taught: "2018"
 last_taught: "2018"
@@ -16,7 +16,7 @@ featured: false
 #image: featured.jpg
 lastmod: "2018"
 projects: []
-subtitle: 'Macalester College'
+subtitle: 'Macalester'
 description: Intro-level course in cognitive science
 ---
 
@@ -33,5 +33,5 @@ As much as possible, we will also discuss how cognitive science operates as a sc
 Keep these questions ‘in mind’ throughout this course to guide your learning.
 
 ::: callout-tip
-Interested in this course? I'm happy to share materials -- please <a href="mailto:jbye@umn.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
+Interested in this course? I'm happy to share materials -- please <a href="mailto:jkbye@csudh.edu">reach out to me! <i class="bi bi-envelope" role='img' aria-label='Email'></i> </a>
 :::

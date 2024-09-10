@@ -5,8 +5,8 @@ listing:
     contents: courses
     type: table
     sort: 
-      - "times_taught desc"
       - "last_taught desc"
+      - "times_taught desc"
     categories: true
     table-hover: true
     fields: [title, subtitle, times_taught, last_taught]
@@ -21,8 +21,8 @@ listing:
     contents: workshops
     type: table
     sort: 
-      - "times_taught desc"
       - "last_taught desc"
+      - "times_taught desc"
     categories: true
     table-hover: true
     fields: [title, subtitle, times_taught, last_taught]
@@ -36,7 +36,7 @@ listing:
 view: 2
 ---
 
-(Most) courses and workshops I have taught at the [University of Minnesota](https://twin-cities.umn.edu/), [Macalester College](https://www.macalester.edu/), and [UCLA](http://www.ucla.edu/).
+Courses and workshops I have taught at [Cal State Dominguez Hills](https://www.csudh.edu/), [University of Minnesota](https://twin-cities.umn.edu/), [Macalester College](https://www.macalester.edu/), and [UCLA](http://www.ucla.edu/).
 
 ## Courses
 
