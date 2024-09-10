@@ -42,11 +42,12 @@ I'm an interdisciplinary cognitive scientist interested in how people learn and 
 
 * Math Learning
 * Mathematical Cognition
-* Causal Learning
 * Statistical Thinking
 * Open Science
 * Science Communication
+* Computational Thinking
 * Data Literacy
+* Causal Inference
 
 :::
 
