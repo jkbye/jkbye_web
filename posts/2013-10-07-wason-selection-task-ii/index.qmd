@@ -4,8 +4,8 @@ author:
   - name: "Jeffrey K. Bye"
     url: http://www.jkbye.com
     orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+    affiliation: Psychology, Cal State Dominguez Hills
+    affiliation-url: https://www.csudh.edu/psychology/
 categories: [Cognitive Psychology, Reasoning, Wason Selection Task]
 date: "2013-10-07"
 draft: false
@@ -90,7 +90,7 @@ Cheng and Holyoak (1985, Experiment 1) tested subjects from both America and Hon
 
 In the postage stamp example (Problem 3), all subjects were told that they were to act as a postal clerk in a foreign country and enforce the rule: “If an envelope is sealed, then it must have a 20 cent stamp” (Cheng & Holyoak, 1985, p. 399). Half of the subjects were then told that the rationale for the regulation was to increase profit from sealed, personal letters.
 
-{{< figure src="Wason_Postage.png" title="Wason Selection Task: Postage Example" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://psychology-inaction.squarespace.com/psychology-in-action-1/2013/10/07/psychology-classics-wason-selection-task-part-ii">}}
+![Wason Selection Task: Postage Example](Wason_Postage.png)
 
 You are shown these four cards and given the following prompt:
 
@@ -104,7 +104,7 @@ You are shown these four cards and given the following prompt:
 
 In the cholera example (Problem 4), all subjects were told that they were to act as an immigration clerk in the Philippines and enforce the rule: “If a passenger's form says 'Entering' on one side, then the other side must include ‘cholera’” (p. 399). Half of the subjects were told that the tropical diseases listed were passengers’ inoculations, and the rationale for the regulation was to ensure entering passengers were protected.
 
-{{< figure src="Wason_Cholera.png" title="Wason Selection Task: Cholera Example" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://psychology-inaction.squarespace.com/psychology-in-action-1/2013/10/07/psychology-classics-wason-selection-task-part-ii">}}
+![Wason Selection Task: Cholera Example](Wason_Cholera.png)
 
 You are shown these four cards and given the following prompt:
 
@@ -118,7 +118,7 @@ The other side of the form lists names of *inoculations* for tropical diseases t
 
 A purely syntactic (natural logic) theory would predict that all eight conditions (2 locations x 2 domains x 2 rationale) would yield similar results, and a purely semantic (memory-cueing) theory would predict that only Hong Kong subjects would do well on the postage rule (given their specific experience with a similar rule), and rationales would not make much difference in any condition. By contrast, Cheng and Holyoak predicted that only Hong Kong subjects given the postage rule would do well *without* a rationale, but that subjects in the other conditions (Hong Kong cholera, American postage, American cholera) would significantly improve when given a rationale.
 
-{{< figure src="Wason_Fig1.png" title="Cheng & Holyoak (1985) Experiment 1 Results" attr="Cheng & Holyoak (1985)" attrlink="https://psychology-inaction.squarespace.com/psychology-in-action-1/2013/10/07/psychology-classics-wason-selection-task-part-ii">}}
+![Cheng & Holyoak (1985) Experiment 1 Results](Wason_Fig1.png)
 
 As indicated in the figure, providing subjects with a regulation’s rationale improved correct responses from around 60% to around 90%, except for the Hong Kong subjects with the postage rule (who were already around 90% without the rationale). The syntactic natural-logic theory does not explain any differences between conditions (all shared the same *if-then* conditional logic rules), and the semantic memory-cueing theory does not readily explain the effect of the rationale (there were no experiential differences between subjects in the rationale and no-rationale conditions).
 
@@ -130,7 +130,8 @@ These results support the pragmatic reasoning schema theory, as subjects were ab
 
 In order to preserve the schema-cueing sense of permission, they kept the basic intro to the prompt used in Experiment 1, telling the reasoner that they were to act as an authority checking whether regulations are being followed. However, neither the actions nor their prerequisites were specified, and were represented purely as Action A and Precondition P. In this sense, the only content of the problem was the fact that this rule was a regulation (deontic), not just descriptive. In order to evoke a sense of permission, the conditional rule was framed as a requirement that people fulfill a precondition in order to carry out an action, and the reasoner was given the position of an authority enforcing the regulation.
 
-{{< figure src="Wason_Abstract_Permission.png" title="Wason Selection Task: Abstract Permission Example" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://psychology-inaction.squarespace.com/psychology-in-action-1/2013/10/07/psychology-classics-wason-selection-task-part-ii">}}
+![Wason Selection Task: Abstract Permission Example](Wason_Abstract_Permission.png)
+
 
 You are shown these four cards and given the following prompt:
 
@@ -140,7 +141,7 @@ You are shown these four cards and given the following prompt:
 
 In a second condition, reasoners were given a scenario similar to the original Wason task, but formatted to match as closely as possible the abstract regulation problem above. (Cheng and Holyoak note that while the original Wason task is often called ‘abstract’, the entities––letters and numbers––do have concreteness to them; it is the *arbitrary* nature of the rule that really matters, in contrast to the non-arbitrary practical implications of a regulation.) Subjects were told that they were to determine whether a rule (“If a card has an ‘A’ on one side, then it must have a ‘4’ on the other side”) was being followed. To more closely match the abstract permission problem, cards that negated the ‘A’ or ‘4’ were explicitly labeled as such (e.g., ‘7’ was captioned ‘i.e., not 4’ and ‘B’ ‘i.e., not A’) and the modal *must* was included in the rule. Importantly, while logically identical to the abstract permission problem, the conditional in this problem was not phrased as a regulation, but rather as a descriptive rule.
 
-{{< figure src="Wason_Abstract_Arbitrary.png" title="Wason Selection Task: Abstract Arbitrary Example" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://psychology-inaction.squarespace.com/psychology-in-action-1/2013/10/07/psychology-classics-wason-selection-task-part-ii">}}
+![Wason Selection Task: Abstract Arbitrary Example](Wason_Abstract_Arbitrary.png)
 
 You are shown these four cards and given the following prompt:
 
@@ -156,7 +157,7 @@ Cheng and Holyoak’s (1985) results provide evidence against the natural-logic 
 
 ### Disclosure of professional connection to featured research
 
-The author, Jeffrey K. Bye, was a graduate student of Patricia Cheng and Keith Holyoak in the Reasoning Lab at UCLA.
+The author, Jeffrey K. Bye, was a graduate student of Patricia Cheng and Keith Holyoak in the [Reasoning Lab](https://reasoninglab.psych.ucla.edu/) at UCLA.
 
 ## References
 

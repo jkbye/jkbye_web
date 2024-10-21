@@ -4,8 +4,8 @@ author:
   - name: "Jeffrey K. Bye"
     url: http://www.jkbye.com
     orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+    affiliation: Psychology, Cal State Dominguez Hills
+    affiliation-url: https://www.csudh.edu/psychology/
 categories: [Music, Cognition]
 date: "2011-09-02"
 draft: false

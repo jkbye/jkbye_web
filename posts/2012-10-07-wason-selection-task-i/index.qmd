@@ -4,8 +4,8 @@ author:
   - name: "Jeffrey K. Bye"
     url: http://www.jkbye.com
     orcid: 0000-0002-2636-3657
-    affiliation: Educational Psychology, University of Minnesota
-    affiliation-url: https://edpsych.umn.edu/
+    affiliation: Psychology, Cal State Dominguez Hills
+    affiliation-url: https://www.csudh.edu/psychology/
 categories: [Cognitive Psychology, Reasoning, Wason Selection Task]
 date: "2012-10-07"
 draft: false
@@ -48,7 +48,7 @@ In the 1960s, **Peter Cathcart Wason** introduced a test of logical reasoning th
 
 You are shown these four green cards and given the following prompt:
 
-{{< figure src="Wason_Abstract.png" title="Wason Selection Task: Abstract" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://www.psychologyinaction.org/2012-10-07-classic-psychology-experiments-wason-selection-task-part-i/">}}
+![Wason Selection Task: Abstract](Wason_Abstract.png)
 
 You are told these four cards have a letter on one side and a number on the other. You are given a rule about the four cards: ***If a card has a vowel on one side, then it has an even number on the other side.***
 
@@ -122,7 +122,7 @@ Here is a classic example of a concrete Wason selection task with a rule most Am
 
 You are shown these four orange cards and given the following prompt:
 
-{{< figure src="Wason_Beer.png" title="Wason Selection Task: Thematic" attr="Jeffrey K. Bye, Psychology in Action" attrlink="https://www.psychologyinaction.org/2012-10-07-classic-psychology-experiments-wason-selection-task-part-i/">}}
+![Wason Selection Task: Thematic](Wason_Beer.png)
 
 You are told these four cards represent patrons in a bar, and each card has their drink on one side and their age in years on the other. You are given a rule about the four patrons: ***If a patron is drinking a beer, then they must be 21 years or older***.
 
@@ -154,7 +154,7 @@ But the memory-cueing theory would not last long, because it was soon found that
 
 *In the next post on the Wason selection task, I will discuss the a popular theory that emerged in the 1980s and generated a new wave of interest in research with the task. Stay tuned for more!*
 
-**Update: [*Part II*](../2013-wason-selection-task-ii)**
+**Update: [*Part II*](../2013-10-07-wason-selection-task-ii/)**
 
 ## References
 

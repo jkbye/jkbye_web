@@ -1,3 +1,23 @@
+oop:
+  type: "Article"
+  title: "Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions"
+  authors:
+      - me
+      - Jenny Yun-Chen Chan
+      - Avery H. Closser
+      - Ji-Eun Lee
+      - Stacy T. Shaw
+      - Erin R. Ottmar
+  year: 2024
+  date: 2024
+  #volume: 10
+  #issue: 
+  #doi: 
+  #pdf: 
+  #published_url: 
+  journal: Journal of Numerical Cognition
+
+
 pv2:
   type: "Article"
   title: "The psychological reality of the learned 'p < .05' boundary"

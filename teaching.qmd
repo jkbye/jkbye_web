@@ -6,6 +6,7 @@ listing:
     type: table
     sort: 
       - "last_taught desc"
+      - "subtitle asc"
       - "times_taught desc"
     categories: true
     table-hover: true

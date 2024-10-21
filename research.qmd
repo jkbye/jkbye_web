@@ -69,6 +69,7 @@ for _, data in yaml_data.items():
     
     # DOI first
     doi = data.get("doi")
+    published_url = data.get("published_url")
     if doi is not None:
       buttons.append(button(doi, "DOI", "ai-doi"))
     elif published_url is not None: # then URL (if no DOI)

@@ -16,7 +16,8 @@ How do children and adults learn and think about math, data, science, and progra
 ### 2024{#published-2024}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). The psychological reality of the learned 'p < .05' boundary. <em>Cognitive Research: Principles and Implications</em><em>, 9</em>(27).<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Jenny Yun-Chen Chan, Avery H. Closser, Ji-Eun Lee, Stacy T. Shaw, & Erin R. Ottmar (2024). Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions. <em>Journal of Numerical Cognition</em>.<br></li>
+<li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). The psychological reality of the learned 'p < .05' boundary. <em>Cognitive Research: Principles and Implications</em><em>, 9</em>(27).<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-024-00553-x.pdf" target="_blank" rel="noopener noreferrer">
