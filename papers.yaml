@@ -1,3 +1,21 @@
+factorial:
+  type: "Article"
+  title: "Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973)"
+  authors:
+      - me
+      - Vijay Marupudi
+      - Reba Koenen
+      - Jimin Park
+      - Sashank Varma
+  year: 2025
+  date: 2025
+  #volume: 53
+  #issue: 1
+  #doi: 
+  #pdf: 
+  #published_url: 
+  journal: Memory & Cognition
+
 oop:
   type: "Article"
   title: "Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions"
@@ -9,12 +27,12 @@ oop:
       - Stacy T. Shaw
       - Erin R. Ottmar
   year: 2024
-  date: 2024
-  #volume: 10
+  date: 2024-10-04
+  volume: 10
   #issue: 
-  #doi: 
-  #pdf: 
-  #published_url: 
+  doi: https://doi.org/10.5964/jnc.14103
+  pdf: https://jnc.psychopen.eu/index.php/jnc/article/view/14103/14103.pdf
+  published_url: https://jnc.psychopen.eu/index.php/jnc/article/view/14103 
   journal: Journal of Numerical Cognition
 
 

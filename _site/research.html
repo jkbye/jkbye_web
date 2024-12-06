@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Jeffrey K. Bye, Ph.D.&nbsp;- Research</title>
+<title>Research – Jeffrey K. Bye, Ph.D.</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -158,8 +158,16 @@ ul.task-list li input[type="checkbox"] {
 <p>How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.</p>
 <h2 id="peer-reviewed-journal-articles" class="anchored">Peer-Reviewed Journal Articles</h2>
 <div id="published-year" class="cell" data-execution_count="2">
+<h3 id="published-2025" class="anchored">2025</h3>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Jeffrey K. Bye</strong>, Vijay Marupudi, Reba Koenen, Jimin Park, &amp; Sashank Varma (2025). Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973). <em>Memory &amp; Cognition</em>.<br></li></ul>
 <h3 id="published-2024" class="anchored">2024</h3>
-<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Jeffrey K. Bye</strong>, Jenny Yun-Chen Chan, Avery H. Closser, Ji-Eun Lee, Stacy T. Shaw, &amp; Erin R. Ottmar (2024). Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions. <em>Journal of Numerical Cognition</em>.<br></li>
+<ul class="list-group list-group-flush"><li class="list-group-item"><strong>Jeffrey K. Bye</strong>, Jenny Yun-Chen Chan, Avery H. Closser, Ji-Eun Lee, Stacy T. Shaw, &amp; Erin R. Ottmar (2024). Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions. <em>Journal of Numerical Cognition</em><em>, 10</em>.<br><a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.5964/jnc.14103" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role="img" aria-label="DOI"></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm" ,="" href="https://jnc.psychopen.eu/index.php/jnc/article/view/14103/14103.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role="img" aria-label="PDF"></i>
+        PDF
+    </a></li>
 <li class="list-group-item">V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, &amp; Sashank Varma (2024). The psychological reality of the learned 'p &lt; .05' boundary. <em>Cognitive Research: Principles and Implications</em><em>, 9</em>(27).<br><a class="btn btn-outline-dark btn-sm" ,="" href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role="img" aria-label="DOI"></i>
         DOI
@@ -455,18 +463,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -498,7 +495,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -506,7 +525,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

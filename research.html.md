@@ -1,9 +1,13 @@
 ---
-title: Research
+title: "Research"
 echo: false
+jupyter: python3
 section-divs: false
 keep-md: true
 ---
+
+
+
 
 
 How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
@@ -13,10 +17,22 @@ How do children and adults learn and think about math, data, science, and progra
 ## Peer-Reviewed Journal Articles
 
 ::: {#published-year .cell execution_count=2}
+### 2025{#published-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Vijay Marupudi, Reba Koenen, Jimin Park, & Sashank Varma (2025). Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973). <em>Memory & Cognition</em>.<br></li></ul>
+```
+
 ### 2024{#published-2024}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Jenny Yun-Chen Chan, Avery H. Closser, Ji-Eun Lee, Stacy T. Shaw, & Erin R. Ottmar (2024). Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions. <em>Journal of Numerical Cognition</em>.<br></li>
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Jenny Yun-Chen Chan, Avery H. Closser, Ji-Eun Lee, Stacy T. Shaw, & Erin R. Ottmar (2024). Perceiving precedence: Order of operations errors are predicted by perception of equivalent expressions. <em>Journal of Numerical Cognition</em><em>, 10</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.5964/jnc.14103" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://jnc.psychopen.eu/index.php/jnc/article/view/14103/14103.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li>
 <li class='list-group-item'>V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). The psychological reality of the learned 'p < .05' boundary. <em>Cognitive Research: Principles and Implications</em><em>, 9</em>(27).<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1186/s41235-024-00553-x" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
