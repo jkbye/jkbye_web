@@ -1,0 +1,21 @@
+---
+title: "Intermediate Statistics and Research Design"
+semesters: ["Spring 2025"]
+first_taught: "2025"
+last_taught: "2025"
+times_taught: 1
+categories: [Statistics, R, Data Visualization, Research Methods]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2025"
+projects: []
+subtitle: 'CSUDH'
+description: Intermediate undergraduate course on statistical inference
+---
+
+The applications of statistical techniques to problems in the behavioral sciences. Discussion of problems in hypothesis formulation, sampling techniques, distribution-free statistics, multivariate data analysis, and presentation of results. Two hours of lecture and two hours of laboratory per week.
+
+Upon successful completion of this course, students will be able to identify and explain the appropriate statistical tests for many basic research situations and carry out the necessary analyses using R, a free and open-source statistical language that is widely used in psychological research, data science, and many industry careers. Students will demonstrate: a conceptual understanding of descriptive and inferential statistical tests and their underlying conceptual framework, basic mastery of data visualization and interpreting statistical tests in R, and scientific writing of a results section for each statistical procedure. The course is taught with an active, hands-on approach, including lab activities and group work. It is designed to be accessible to students without any prior statistics knowledge or programming experience.
+
+

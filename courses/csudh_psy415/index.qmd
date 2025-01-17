@@ -1,14 +1,14 @@
 ---
 title: "Advanced Research Methods in Cognitive Psychology"
-semesters: ["Fall 2024"]
+semesters: ["Fall 2024", "Spring 2025"]
 first_taught: "2024"
-last_taught: "2024"
-times_taught: 1
+last_taught: "2025"
+times_taught: 2
 categories: [Cognition, Psychology, Research Methods]
 draft: false
 featured: false
 #image: featured.jpg
-lastmod: "2024"
+lastmod: "2025"
 projects: []
 subtitle: 'CSUDH'
 description: Advanced undergraduate course on cognitive psychology research methods

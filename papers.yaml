@@ -11,9 +11,10 @@ factorial:
   date: 2025
   #volume: 53
   #issue: 1
-  #doi: 
+  doi: https://doi.org/10.3758/s13421-024-01662-0
+  osf: https://osf.io/pfsu2/
   #pdf: 
-  #published_url: 
+  published_url: https://link.springer.com/article/10.3758/s13421-024-01662-0
   journal: Memory & Cognition
 
 oop:
@@ -31,6 +32,7 @@ oop:
   volume: 10
   #issue: 
   doi: https://doi.org/10.5964/jnc.14103
+  osf: https://osf.io/hsn6y
   pdf: https://jnc.psychopen.eu/index.php/jnc/article/view/14103/14103.pdf
   published_url: https://jnc.psychopen.eu/index.php/jnc/article/view/14103 
   journal: Journal of Numerical Cognition

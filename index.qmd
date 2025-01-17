@@ -30,9 +30,11 @@ about:
 ---
 
 ### Hello,
-I am an Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/). I previously taught at the [University of Minnesota](https://www.cehd.umn.edu/edpsych/) and  [UCLA](https://www.psych.ucla.edu/).
+I am an Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/). In this role, I teach [courses](teaching.html), conduct [research](research.html), and am director of the MOSAIC Lab.
 
 I'm an interdisciplinary cognitive scientist interested in how people learn and think about math and science. I love to teach and discuss cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
+
+I previously taught at the [University of Minnesota](https://www.cehd.umn.edu/edpsych/) and  [UCLA](https://www.psych.ucla.edu/), and served as president of [Psychology in Action](https://www.psychologyinaction.org/).
 
 
 ::: {.activities}
@@ -60,7 +62,7 @@ I'm an interdisciplinary cognitive scientist interested in how people learn and 
 <div class="degree">Ph.D., Cognitive Psychology<br>
 <span class="subdegree">*Specialization:* Computational Cognition<br>
 *Minor:* Quantitative Psychology</span></div>
-<div class="school">[UCLA](https://www.ucla.edu/)</div>
+<div class="school">2016, [UCLA](https://www.ucla.edu/)</div>
 </div>
 <p></p>
 <div class="education-element">
@@ -69,7 +71,7 @@ I'm an interdisciplinary cognitive scientist interested in how people learn and 
 <div class="degree">B.A., Cognitive Science<br>
 <span class="subdegree">*Subconcentration:* Computer Science<br>
 *Minor:* Philosophy</span></div>
-<div class="school">[Pomona College](https://www.pomona.edu/)</div>
+<div class="school">2009, [Pomona College](https://www.pomona.edu/)</div>
 </div>
 
 :::
