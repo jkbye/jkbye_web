@@ -20,7 +20,7 @@ website:
   page-footer:
     background: dark
     left:
-      - "© 2025, Jeffrey K. Bye, Ph.D."
+      - "© 2026, Jeffrey K. Bye, Ph.D."
     right:
       - "Site built in <a href='https://quarto.org/docs/websites/'>Quarto</a>.
         <a href='https://github.com/jkbye/jkbye_web?tab=readme-ov-file#readme'>Learn more.</a>"

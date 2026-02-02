@@ -1,0 +1,29 @@
+---
+title: "Social Data Science"
+semesters: ["Fall 2025"]
+first_taught: "2025"
+last_taught: "2025"
+times_taught: 1
+categories: [Programming, R, Data Science, Data Visualization, Reproducibility, Social Science]
+draft: false
+featured: false
+#image: featured.jpg
+lastmod: "2025"
+projects: []
+subtitle: 'CSUDH'
+description: Undergraduate/graduate course on data science skills and theory for social scientists
+---
+
+::: callout-note
+I designed and piloted this course in 2025 and it is currently being re-designed to include community-engaged learning. I hope it will be offered again in Fall 2026.
+:::
+
+
+This course teaches computer-based data science skills that are increasingly important in the social sciences, including fundamental programming concepts, data wrangling and visualization in R, and writing reproducible data reports with Quarto. It emphasizes open science practice and theory, teaching readily implementable skills for research and many career types. The course is taught with an active, hands-on approach and is designed to be accessible to students without any prior programming experience.
+
+::: callout-tip
+Interested in this course? I'm happy to share materials -- please 
+    <a href="mailto:jkbye@csudh.edu">reach out to me!
+        <i class="bi bi-envelope" role='img' aria-label='Email'></i>
+    </a>
+:::

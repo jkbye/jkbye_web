@@ -1,3 +1,75 @@
+# TODO- add categories
+
+video:
+  type: "Article"
+  title: "From interaction analysis to pedagogy: boundary crossing through intertwined approaches to video-based sensemaking"
+  authors:
+      - Megan Goeke
+      - David DeLiema
+      - me
+      - Zack Carpenter
+      - Vijay Marupudi
+      - Andrea Wilson Vazquez
+  year: 2025
+  date: 2025-09-09
+  volume: 49
+  issue: 1
+  pages: "102-129"
+  doi: https://doi.org/10.1080/1743727X.2025.2544012
+  #osf: 
+  #pdf: 
+  published_url: https://www.tandfonline.com/doi/full/10.1080/1743727X.2025.2544012
+  journal: International Journal of Research & Method in Education
+
+percept2_data:
+  type: "Article"
+  title: "Data from the effects of congruent and incongruent perceptual cues on middle schoolers' mathematical performance, learning, and retention study"
+  authors:
+      - Erin R. Ottmar
+      - Puyuan Zhang
+      - Ji-Eun Lee
+      - me
+      - Maegan A. Colbert
+      - Alena Egorova
+      - Shuqi Yu
+      - Avery H. Closser
+      - Caroline B. Hornburg
+  year: 2025
+  date: 2025-08-13
+  volume: 13
+  issue: 1
+  pages: "Article 5"
+  doi: https://doi.org/10.5334/jopd.139
+  osf: https://osf.io/d3tzq
+  pdf: https://openpsychologydata.metajnl.com/articles/139/files/689c8c4152f7d.pdf
+  published_url: https://openpsychologydata.metajnl.com/articles/10.5334/jopd.139
+  journal: The Journal of Experimental Education
+  
+percept1:
+  type: "Article"
+  title: "Examining the effects of spacing and color perceptual cues on middle schoolers’ order-of-operations performance"
+  authors:
+      - Caroline B. Hornburg
+      - Ji-Eun Lee
+      - Avery H. Closser
+      - me
+      - Alena Egorova
+      - Maegan A. Colbert
+      - Shuqi Yu
+      - Puyuan Zhang
+      - Isabel Valdivia
+      - Erin R. Ottmar
+  year: 2025
+  date: 2025-07-31
+  #volume: 53
+  #issue: 1
+  pages: 1-22
+  doi: https://doi.org/10.1080/00220973.2025.2528691
+  osf: https://osf.io/bhvwj
+  #pdf: 
+  published_url: https://www.tandfonline.com/doi/full/10.1080/00220973.2025.2528691
+  journal: The Journal of Experimental Education
+
 factorial:
   type: "Article"
   title: "Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973)"
@@ -8,9 +80,10 @@ factorial:
       - Jimin Park
       - Sashank Varma
   year: 2025
-  date: 2025
-  #volume: 53
+  date: 2025-01-17
+  volume: 53
   #issue: 1
+  pages: 1449-1465
   doi: https://doi.org/10.3758/s13421-024-01662-0
   osf: https://osf.io/pfsu2/
   #pdf: 
@@ -228,6 +301,51 @@ ramps:
 
 # NEXT DO BOOK THEN PROCS
 
+pv3:
+  type: "Proceeding"
+  title: "Can we extend the reverse cohesion effect to programming contexts?"
+  authors:
+      - V. N. Vimal Rao
+      - me
+  year: 2025
+  date: 2025-07-01
+  doi: https://escholarship.org/uc/item/08x7m34h
+  pdf: https://escholarship.org/content/qt08x7m34h/qt08x7m34h.pdf
+  #published_url: 
+  proceedings: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
+  pages: 6154-6161
+
+revcoh1:
+  type: "Proceeding"
+  title: "Can we extend the reverse cohesion effect to programming contexts?"
+  authors:
+      - Rina M. Harsch
+      - me
+      - Vasile Rus
+      - Panayiota Kendeou
+  year: 2025
+  date: 2025-07-01
+  doi: https://escholarship.org/uc/item/9wm1d687
+  pdf: https://escholarship.org/content/qt9wm1d687/qt9wm1d687.pdf
+  #published_url: 
+  proceedings: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
+  pages: 5448-5454
+  
+gof1:
+  type: "Proceeding"
+  title: "Estimating the growth of functions"
+  authors:
+      - Vijay Marupudi
+      - me
+      - Sashank Varma
+  year: 2024
+  date: 2024-07-01
+  doi: https://escholarship.org/uc/item/3ww645qn
+  pdf: https://escholarship.org/content/qt3ww645qn/qt3ww645qn.pdf
+  #published_url: 
+  proceedings: Proceedings of the 46th Annual Meeting of the Cognitive Science Society
+  pages: 3571-3577
+
 debug:
   type: "Proceeding"
   title: "Debugging debugging instruction: A research-practice partnership in K-8 computer science education"
@@ -264,7 +382,7 @@ cluster2:
   title: "Use of clustering in human solutions of the traveling salesperson problem"
   authors:
       - Vijay Marupudi
-      - Rina Harsch
+      - Rina M. Harsch
       - Jimin Park
       - V. N. Vimal Rao
       - me
@@ -282,7 +400,7 @@ cluster1:
   title: "The role of clustering in the efficient solution of small traveling salesperson problems"
   authors:
       - Vijay Marupudi
-      - Rina Harsch
+      - Rina M. Harsch
       - V. N. Vimal Rao
       - me
       - Jimin Park

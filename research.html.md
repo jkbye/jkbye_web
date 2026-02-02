@@ -20,7 +20,28 @@ How do children and adults learn and think about math, data, science, and progra
 ### 2025{#published-2025}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Vijay Marupudi, Reba Koenen, Jimin Park, & Sashank Varma (2025). Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973). <em>Memory & Cognition</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.3758/s13421-024-01662-0" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Megan Goeke, David DeLiema, <strong>Jeffrey K. Bye</strong>, Zack Carpenter, Vijay Marupudi, & Andrea Wilson Vazquez (2025). From interaction analysis to pedagogy: boundary crossing through intertwined approaches to video-based sensemaking. <em>International Journal of Research & Method in Education</em><em>, 49</em>(1), 102-129.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1080/1743727X.2025.2544012" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a></li>
+<li class='list-group-item'>Erin R. Ottmar, Puyuan Zhang, Ji-Eun Lee, <strong>Jeffrey K. Bye</strong>, Maegan A. Colbert, Alena Egorova, Shuqi Yu, Avery H. Closser, & Caroline B. Hornburg (2025). Data from the effects of congruent and incongruent perceptual cues on middle schoolers' mathematical performance, learning, and retention study. <em>The Journal of Experimental Education</em><em>, 13</em>(1), Article 5.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.5334/jopd.139" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://openpsychologydata.metajnl.com/articles/139/files/689c8c4152f7d.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://osf.io/d3tzq" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-osf" role='img' aria-label='OSF'></i>
+        OSF
+    </a></li>
+<li class='list-group-item'>Caroline B. Hornburg, Ji-Eun Lee, Avery H. Closser, <strong>Jeffrey K. Bye</strong>, Alena Egorova, Maegan A. Colbert, Shuqi Yu, Puyuan Zhang, Isabel Valdivia, & Erin R. Ottmar (2025). Examining the effects of spacing and color perceptual cues on middle schoolers’ order-of-operations performance. <em>The Journal of Experimental Education</em>, 1-22.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1080/00220973.2025.2528691" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://osf.io/bhvwj" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-osf" role='img' aria-label='OSF'></i>
+        OSF
+    </a></li>
+<li class='list-group-item'><strong>Jeffrey K. Bye</strong>, Vijay Marupudi, Reba Koenen, Jimin Park, & Sashank Varma (2025). Estimation of factorial expressions and its improvement through calibration: A replication and extension of Tversky and Kahneman (1973). <em>Memory & Cognition</em><em>, 53</em>, 1449-1465.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.3758/s13421-024-01662-0" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://osf.io/pfsu2/" target="_blank" rel="noopener noreferrer">
@@ -134,6 +155,30 @@ How do children and adults learn and think about math, data, science, and progra
 ## Peer-Reviewed Conference Proceeding Papers
 
 ::: {#proceedings-year .cell execution_count=3}
+### 2025{#not-published-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao & <strong>Jeffrey K. Bye</strong> (2025). Can we extend the reverse cohesion effect to programming contexts?. In <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society</em>, (pp. 6154-6161).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/08x7m34h" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt08x7m34h/qt08x7m34h.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li></ul>
+```
+
+### 2024{#not-published-2024}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Vijay Marupudi, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2024). Estimating the growth of functions. In <em>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</em>, (pp. 3571-3577).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/3ww645qn" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt3ww645qn/qt3ww645qn.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li></ul>
+```
+
 ### 2023{#not-published-2023}
 
 ```{=html}
@@ -161,7 +206,7 @@ How do children and adults learn and think about math, data, science, and progra
 ### 2021{#not-published-2021}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Vijay Marupudi, Rina Harsch, V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, Jimin Park, & Sashank Varma (2021). The role of clustering in the efficient solution of small traveling salesperson problems. In <em>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</em>, (pp. 1865-1871).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/5q76r06x" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Vijay Marupudi, Rina M. Harsch, V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, Jimin Park, & Sashank Varma (2021). The role of clustering in the efficient solution of small traveling salesperson problems. In <em>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</em>, (pp. 1865-1871).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/5q76r06x" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt5q76r06x/qt5q76r06x.pdf?t=qwi3aq" target="_blank" rel="noopener noreferrer">

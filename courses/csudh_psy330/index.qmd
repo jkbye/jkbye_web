@@ -1,9 +1,9 @@
 ---
 title: "Intermediate Statistics and Research Design"
-semesters: ["Spring 2025"]
+semesters: ["Spring 2025", "Fall 2025"]
 first_taught: "2025"
 last_taught: "2025"
-times_taught: 1
+times_taught: 3
 categories: [Statistics, R, Data Visualization, Research Methods]
 draft: false
 featured: false

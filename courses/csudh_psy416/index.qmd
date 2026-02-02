@@ -1,14 +1,14 @@
 ---
 title: "Research Seminar in Cognitive Psychology (Lab)"
-semesters: ["Fall 2024", "Spring 2025"]
+semesters: ["Fall 2024", "Spring 2025", "Spring 2026"]
 first_taught: "2024"
-last_taught: "2025"
-times_taught: 3
+last_taught: "2026"
+times_taught: 4
 categories: [Cognition, Psychology, Research Methods, Experiments]
 draft: false
 featured: false
 #image: featured.jpg
-lastmod: "2025"
+lastmod: "2026"
 projects: []
 subtitle: 'CSUDH'
 description: Advanced undergraduate course on cognitive psychology research methods
