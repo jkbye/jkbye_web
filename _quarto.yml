@@ -15,8 +15,8 @@ website:
         text: Research
       - href: posts.qmd
         text: Posts
-      # - href: https://edpsych.umn.edu/research/labs/math-learning
-      #   text: Lab
+      - href: https://mosaiclab.org/
+        text: Lab
   page-footer:
     background: dark
     left:

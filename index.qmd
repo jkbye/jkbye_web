@@ -30,7 +30,7 @@ about:
 ---
 
 ### Hello,
-I am an Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/). In this role, I teach [courses](teaching.html), conduct [research](research.html), and am director of the MOSAIC Lab.
+I am an Assistant Professor in [Psychology](https://www.csudh.edu/psychology/) at [California State University, Dominguez Hills](https://www.csudh.edu/). In this role, I teach [courses](teaching.html), conduct [research](research.html), and direct the [MOSAIC Lab](https://mosaiclab.org/).
 
 I'm an interdisciplinary cognitive scientist interested in how people learn and think about math and science. I love to teach and discuss cognition, statistics, computing, and research methods. I'm also passionate about open, inclusive science and making science communication more transparent, effective, and human.
 
