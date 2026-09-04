@@ -6,7 +6,7 @@ section-divs: false
 keep-md: true
 ---
 
-How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
+How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful or not? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
 
 ```{python}
 # TODO: eventually replace with a custom listing 
@@ -92,6 +92,9 @@ for _, data in yaml_data.items():
     pages = data.get("pages")
     journal = data.get("journal")
     proceedings = data.get("proceedings")
+    book = data.get("book")
+    editors = data.get("editors")
+    publisher = data.get("publisher")
     
     # start building the citation (as f-string)
     entry = f'{author_str} ({year_str}). {title_str}.'
@@ -100,7 +103,7 @@ for _, data in yaml_data.items():
     
     # JOURNAL ARTICLES
     if entry_type=="Article":
-      # for journal article, add remaining details (APA style)
+      # for journal article, add remaining details (APA style but first names first)
       entry += f" <em>{journal}</em>"
       if volume is not None:
         entry += f"<em>, {volume}</em>"
@@ -117,7 +120,28 @@ for _, data in yaml_data.items():
           "<li class='list-group-item'>" + entry + "<br>" +
           " ".join(buttons) + "</li>"
       )
+    
+    # BOOK CHAPTERS
+    elif entry_type=="Chapter":
+      # for book chapter, add remaining details
+      if editors is not None:
+        # note hard-coded for multiple editors for now
+        entry += f"In {editors} (Eds.)"
+      entry += f" <em>{book}</em>"
+      if pages is not None:
+        entry += f", (pp. {pages})"
+      if publisher is not None:
+        entry += f", {publisher}"
+      entry += f"."
       
+      # add to year list
+      if year_str not in entries["chaps"]:
+          entries["chaps"][year_str] = []
+      entries["chaps"][year_str].append(
+          "<li class='list-group-item'>" + entry + "<br>" +
+          " ".join(buttons) + "</li>"
+      )
+    
     # PROCEEDING PAPERS  
     elif entry_type=="Proceeding": 
       # add remaining details (APA style, but ignoring Eds for now)
@@ -128,14 +152,14 @@ for _, data in yaml_data.items():
       
       if year_str not in entries["procs"]:
         entries["procs"][year_str] = []
-        entries["procs"][year_str].append(
-            "<li class='list-group-item'>" + entry + "<br>" +
-            " ".join(buttons) + "</li>"
-        )
-        
+      entries["procs"][year_str].append(
+          "<li class='list-group-item'>" + entry + "<br>" +
+          " ".join(buttons) + "</li>"
+      )
+
 ```
 
-## Peer-Reviewed Journal Articles
+## Journal Articles
 
 ```{python}
 #| label: "published-year"
@@ -148,7 +172,21 @@ for year in sorted(entries["pubs"].keys(), reverse=True):
     ))
 ```
 
-## Peer-Reviewed Conference Proceeding Papers
+## Book Chapters
+
+```{python}
+#| label: "chapters-year"
+#| id: "chapters-year"
+#| output: asis
+for year in sorted(entries["chaps"].keys(), reverse=True):
+    display(Markdown(f"### {year}" + "{#" + f"published-{year}" + "}"))
+    display(HTML(
+        "<ul class='list-group list-group-flush'>" + '\n'.join(entries["chaps"][year]) + "</ul>"
+    ))
+```
+
+
+## Conference Proceeding Papers
 
 ```{python}
 #| label: "proceedings-year"

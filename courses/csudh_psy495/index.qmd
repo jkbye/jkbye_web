@@ -15,7 +15,7 @@ description: Undergraduate/graduate course on data science skills and theory for
 ---
 
 ::: callout-note
-I designed and piloted this course in 2025 and it is currently being re-designed to include community-engaged learning. I hope it will be offered again in Fall 2026.
+I designed and piloted this course in 2025 and it is currently being re-designed to include community-engaged learning. I hope it will be offered again in Spring 2027.
 :::
 
 

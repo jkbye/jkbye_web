@@ -1,5 +1,47 @@
 # TODO- add categories
 
+percept_probs:
+  type: "Article"
+  title: "Operator positions and perceptual cues: Unpacking their eﬀects on middle school students’ performance and errors in order of operations problems"
+  authors:
+      - Ji-Eun Lee
+      - Carly S. Thorp
+      - Alena Egorova
+      - Heidy Rodriguez
+      - Arba Kamberi
+      - me
+      - Avery H. Closser
+      - Caroline B. Hornburg
+      - Erin R. Ottmar
+  year: 2026
+  date: 2026-09-04
+  #volume: 13
+  #issue: 1
+  #pages: "Article 5"
+  doi: https://doi.org/10.1177/17470218261488305
+  #osf: https://osf.io/d3tzq
+  #pdf: https://openpsychologydata.metajnl.com/articles/139/files/689c8c4152f7d.pdf
+  published_url: https://journals.sagepub.com/doi/10.1177/17470218261488305
+  journal: Quarterly Journal of Experimental Psychology
+
+composites:
+  type: "Article"
+  title: "You shall know a number by the company it keeps: Neighborhood effects in number processing"
+  authors:
+      - Rina M. Harsch
+      - Sashank Varma
+      - me
+  year: 2026
+  date: 2025-09-01
+  volume: 274
+  pages: 106591
+  doi: https://doi.org/10.1016/j.cognition.2026.106591
+  osf: https://osf.io/c3hge/overview?view_only=10943dc4ad204012ac504f81a360637c
+  #pdf: 
+  published_url: https://www.sciencedirect.com/science/article/pii/S0010027726001587
+  journal: Cognition
+  categories: [Math Cognition, Experiment, Cognitive Science]
+
 video:
   type: "Article"
   title: "From interaction analysis to pedagogy: boundary crossing through intertwined approaches to video-based sensemaking"
@@ -271,7 +313,7 @@ atn1:
       - Rachel E. Olson
   year: 2020
   date: 2020-09-18
-  doi: https://doi.org/10.1016/j.cogpsych.2021.101432
+  doi: https://doi.org/10.1080/10986065.2020.1818467
   #pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12589
   published_url: https://www.sciencedirect.com/science/article/pii/S0010028521000554
   journal: Mathematical Thinking and Learning
@@ -299,11 +341,30 @@ ramps:
   pages: 20231
 
 
-# NEXT DO BOOK THEN PROCS
+## BOOK CHAPTERS
+ridinghood:
+  type: "Chapter"
+  title: "What Little Red Riding Hood can teach us about reading science."
+  authors:
+      - Mónica González-Márquez
+      - Anouschka Foltz
+      - me
+      - Ali J. Fulsher
+      - Matthias Wilde
+  year: 2025
+  date: 2025-08-20
+  doi: https://www.degruyterbrill.com/document/doi/10.1515/9783110782844-010/
+  pdf: https://www.degruyterbrill.com/document/doi/10.1515/9783110782844-010/pdf
+  #published_url: 
+  book: Narrative and Cognition in Literature and Science
+  editors: "M. Sinding, A. Heydenreich, & K. Mecke"
+  pages: "269-298"
+  publisher: De Gruyter
 
+## PROCEEDINGS
 pv3:
   type: "Proceeding"
-  title: "Can we extend the reverse cohesion effect to programming contexts?"
+  title: "A 'p < .05' Boundary Effect in the Encoding and Retrieval of p-values from Scientific Texts"
   authors:
       - V. N. Vimal Rao
       - me
@@ -313,7 +374,7 @@ pv3:
   pdf: https://escholarship.org/content/qt08x7m34h/qt08x7m34h.pdf
   #published_url: 
   proceedings: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
-  pages: 6154-6161
+  pages: "6154-6161"
 
 revcoh1:
   type: "Proceeding"
@@ -329,8 +390,8 @@ revcoh1:
   pdf: https://escholarship.org/content/qt9wm1d687/qt9wm1d687.pdf
   #published_url: 
   proceedings: Proceedings of the 47th Annual Meeting of the Cognitive Science Society
-  pages: 5448-5454
-  
+  pages: "5448-5454"
+
 gof1:
   type: "Proceeding"
   title: "Estimating the growth of functions"

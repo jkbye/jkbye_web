@@ -1,9 +1,9 @@
 ---
 title: "Advanced Research Methods in Cognitive Psychology"
-semesters: ["Fall 2024", "Spring 2025", "Spring 2026"]
+semesters: ["Fall 2024", "Spring 2025", "Spring 2026", "Fall 2026"]
 first_taught: "2024"
 last_taught: "2026"
-times_taught: 3
+times_taught: 4
 categories: [Cognition, Psychology, Research Methods]
 draft: false
 featured: false

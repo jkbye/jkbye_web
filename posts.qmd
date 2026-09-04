@@ -9,7 +9,7 @@ listing:
       author: [Mónica González-Márquez, Anouschka Foltz, Jeffrey K. Bye, Ali Fulsher]
       date: "2022-09-13"
       categories: [Science, Metascience, Narrative, Cognition]
-      description: "A piece at *Upstream* on how narrative underlies science"
+      description: "A piece at *Upstream* on how narrative underlies science."
   type: default
   sort: "date desc"
   categories: true

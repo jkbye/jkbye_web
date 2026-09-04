@@ -10,13 +10,29 @@ keep-md: true
 
 
 
-How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
+How do children and adults learn and think about math, data, science, and programming? How do we form abstract knowledge from concrete experiences, and when is that useful or not? What can this tell us about learning and teaching in the classroom and beyond? My research blends cognitive science, learning science, and educational psychology approaches to try to answer these questions.
 
 
 
-## Peer-Reviewed Journal Articles
+## Journal Articles
 
 ::: {#published-year .cell execution_count=2}
+### 2026{#published-2026}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Ji-Eun Lee, Carly S. Thorp, Alena Egorova, Heidy Rodriguez, Arba Kamberi, <strong>Jeffrey K. Bye</strong>, Avery H. Closser, Caroline B. Hornburg, & Erin R. Ottmar (2026). Operator positions and perceptual cues: Unpacking their eﬀects on middle school students’ performance and errors in order of operations problems. <em>Quarterly Journal of Experimental Psychology</em>.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1177/17470218261488305" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a></li>
+<li class='list-group-item'>Rina M. Harsch, Sashank Varma, & <strong>Jeffrey K. Bye</strong> (2026). You shall know a number by the company it keeps: Neighborhood effects in number processing. <em>Cognition</em><em>, 274</em>, 106591.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.cognition.2026.106591" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://osf.io/c3hge/overview?view_only=10943dc4ad204012ac504f81a360637c" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-osf" role='img' aria-label='OSF'></i>
+        OSF
+    </a></li></ul>
+```
+
 ### 2025{#published-2025}
 
 ```{=html}
@@ -131,7 +147,7 @@ How do children and adults learn and think about math, data, science, and progra
 ### 2020{#published-2020}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>Michèle M. M. Mazzocco, Jenny Yun-Chen Chan, <strong>Jeffrey K. Bye</strong>, Emily R. Padrutt, Taylor Praus-Singh, Sarah Lukowski, Ethan Brown, & Rachel E. Olson (2020). Attention to numerosity varies across individuals and task contexts. <em>Mathematical Thinking and Learning</em><em>, 22</em>(4), 258-280.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1016/j.cogpsych.2021.101432" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>Michèle M. M. Mazzocco, Jenny Yun-Chen Chan, <strong>Jeffrey K. Bye</strong>, Emily R. Padrutt, Taylor Praus-Singh, Sarah Lukowski, Ethan Brown, & Rachel E. Olson (2020). Attention to numerosity varies across individuals and task contexts. <em>Mathematical Thinking and Learning</em><em>, 22</em>(4), 258-280.<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.1080/10986065.2020.1818467" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a></li></ul>
@@ -152,16 +168,41 @@ How do children and adults learn and think about math, data, science, and progra
 :::
 
 
-## Peer-Reviewed Conference Proceeding Papers
+## Book Chapters
 
-::: {#proceedings-year .cell execution_count=3}
+::: {#chapters-year .cell execution_count=3}
+### 2025{#published-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'>Mónica González-Márquez, Anouschka Foltz, <strong>Jeffrey K. Bye</strong>, Ali J. Fulsher, & Matthias Wilde (2025). What Little Red Riding Hood can teach us about reading science..In M. Sinding, A. Heydenreich, & K. Mecke (Eds.) <em>Narrative and Cognition in Literature and Science</em>, (pp. 269-298), De Gruyter.<br><a class="btn btn-outline-dark btn-sm", href="https://www.degruyterbrill.com/document/doi/10.1515/9783110782844-010/" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://www.degruyterbrill.com/document/doi/10.1515/9783110782844-010/pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li></ul>
+```
+
+:::
+
+
+## Conference Proceeding Papers
+
+::: {#proceedings-year .cell execution_count=4}
 ### 2025{#not-published-2025}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao & <strong>Jeffrey K. Bye</strong> (2025). Can we extend the reverse cohesion effect to programming contexts?. In <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society</em>, (pp. 6154-6161).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/08x7m34h" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'>V. N. Vimal Rao & <strong>Jeffrey K. Bye</strong> (2025). A 'p < .05' Boundary Effect in the Encoding and Retrieval of p-values from Scientific Texts. In <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society</em>, (pp. 6154-6161).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/08x7m34h" target="_blank" rel="noopener noreferrer">
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt08x7m34h/qt08x7m34h.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li>
+<li class='list-group-item'>Rina M. Harsch, <strong>Jeffrey K. Bye</strong>, Vasile Rus, & Panayiota Kendeou (2025). Can we extend the reverse cohesion effect to programming contexts?. In <em>Proceedings of the 47th Annual Meeting of the Cognitive Science Society</em>, (pp. 5448-5454).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/9wm1d687" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt9wm1d687/qt9wm1d687.pdf" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
         PDF
     </a></li></ul>
@@ -198,6 +239,13 @@ How do children and adults learn and think about math, data, science, and progra
         <i class="ai ai-doi" role='img' aria-label='DOI'></i>
         DOI
     </a> <a class="btn btn-outline-dark btn-sm", href="https://iase-web.org/icots/11/proceedings/pdfs/ICOTS11_153_RAO.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
+        PDF
+    </a></li>
+<li class='list-group-item'>Vijay Marupudi, Rina M. Harsch, Jimin Park, V. N. Vimal Rao, <strong>Jeffrey K. Bye</strong>, & Sashank Varma (2022). Use of clustering in human solutions of the traveling salesperson problem. In <em>Proceedings of the 44th Annual Meeting of the Cognitive Science Society</em>, (pp. 424-430).<br><a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/uc/item/3t16j57m" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-doi" role='img' aria-label='DOI'></i>
+        DOI
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://escholarship.org/content/qt3t16j57m/qt3t16j57m.pdf?t=recjza" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='PDF'></i>
         PDF
     </a></li></ul>

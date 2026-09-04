@@ -1,9 +1,9 @@
 ---
 title: "Research Seminar in Cognitive Psychology (Lab)"
-semesters: ["Fall 2024", "Spring 2025", "Spring 2026"]
+semesters: ["Fall 2024", "Spring 2025", "Spring 2026", "Fall 2026"]
 first_taught: "2024"
 last_taught: "2026"
-times_taught: 4
+times_taught: 5
 categories: [Cognition, Psychology, Research Methods, Experiments]
 draft: false
 featured: false

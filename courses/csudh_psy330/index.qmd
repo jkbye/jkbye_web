@@ -1,14 +1,14 @@
 ---
 title: "Intermediate Statistics and Research Design"
-semesters: ["Spring 2025", "Fall 2025"]
+semesters: ["Spring 2025", "Fall 2025", "Fall 2026"]
 first_taught: "2025"
-last_taught: "2025"
-times_taught: 3
+last_taught: "2026"
+times_taught: 4
 categories: [Statistics, R, Data Visualization, Research Methods]
 draft: false
 featured: false
 #image: featured.jpg
-lastmod: "2025"
+lastmod: "2026"
 projects: []
 subtitle: 'CSUDH'
 description: Intermediate undergraduate course on statistical inference
